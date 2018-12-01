@@ -42,13 +42,13 @@ All the datas are differentiated into three types，and the datas marked in `Blu
 
 
 #### Packages need to install
-* For the crawl code, we need to install following packages:<br>
+* For the crawl code, you need to install following packages:<br>
   * `pandas`
   * `requests`
   * `time`
   * `lxml`
   * `bs4` 
-* For the Data Analysis code, we need to install the following packages:<br>
+* For the Data Analysis code, you need to install the following packages:<br>
   * `sklearn.cluster`
   * `matplotlib.pyplot`
 
