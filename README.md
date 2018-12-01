@@ -5,16 +5,20 @@
 #What do I need to type to get your program to do its thing
 
 # Crawl-and-Cluster--Tools Project
-### Our group name: Fantastic Four. 
-### Group members: Zeqi Zhu(zz2568), Qi Li(ql2336), Jiani Lu(jl5240), Xiao Liang(xl2817)
+### Our group name: Fantastic Four
+### Group members: Zeqi Zhu (zz2568), Qi Li (ql2336), Jiani Lu (jl5240), Xiao Liang (xl2817)
 ### Enrolled in IEOR E4501 Section 001
 
-#### Description
-Our project was carried out in following steps.<br>
+#### Brief Description
+Our project was carried out in following parts.<br>
 
-* First part, we wrote a web crawler that searches the house prices on www.streeteasy.com in Manhanttan Area, New York. 
+* First part, we wrote a web crawler that searches the house prices on www.streeteasy.com in Manhanttan Area, New York, USA.<br> 
+
+`Attention:` As the website has the anti-crawl setting, which means each cookie can only allow us to crawl nearly four pages' data (nearly 40 data sets). Thus we set the length of pages we want to crawl into `4` in the code. <br>
+In order to obtain a large-scale datasets (nearly one thousand datasets in our project), we have to refresh the website and update the cookie (check out line 12 in the code) each time when we excute the code. <br>
+
 The codes for this part are listed as [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) and [spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb). <br>
-Because the website has the anti-crawl setting, which means we can only crawl nearly four pages' data with one cookie. If we want to get a large-scale data, we need to change the cookie each time we excute the code. <br>
+
 Therefore, We came up with two ideas to firgure out this problem, which are listed as [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) and [spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb)
 
   * For the [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py), you have to change the cookie......(check out line 12 in the code) every time you excute the code, and you have to excute the code several times if you want to to get a large-scale data, and obviously you will get several csv files which contains the raw data. 
@@ -29,6 +33,10 @@ Therefore, We came up with two ideas to firgure out this problem, which are list
 
 * Data analysis Result<br>
 ![](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/visualized%20data.png)
+
+* Result Explanation <br>
+
+
 #### Packages need to install
 * For the crawl code, we need to install following packages:<br>
   * `pandas`
