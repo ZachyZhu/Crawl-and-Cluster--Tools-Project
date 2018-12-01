@@ -14,7 +14,7 @@ Our project was carried out in following parts.<br>
 
 * First part, we wrote a web crawler that searches the house prices on www.streeteasy.com in Manhanttan Area, New York, USA.<br> `Attention:` As the website has the `anti-crawl setting`, which means each cookie can only allow us to crawl nearly four pages' data (nearly 40 data sets). Thus we set the length of pages we want to crawl into `4` in the code. <br>
 In order to obtain a large-scale datasets (nearly one thousand datasets in our project), we have to refresh the website and update the cookie (check out line 12 in the code) each time when we execute the code. <br>
-  ** In order to figure out how to overcome the `anti-crawl setting`, We make an assumption that the `anti-crawl setting` is based on the time interval when we crawl the data from different pages. We built another `try` branch to store the files.
+  * In order to figure out how to overcome the `anti-crawl setting`, We make an assumption that the `anti-crawl setting` is based on the time interval when we crawl the data from different pages. We built another `try` branch to store the files. It is optional for you to review this branch. Our main work are on the `master` branch.
 
 The codes for this part are listed as [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) and [spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb). <br>
 
