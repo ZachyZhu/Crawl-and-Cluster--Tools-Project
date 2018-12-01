@@ -1,9 +1,3 @@
-#A description of what has been implemented
-#Installation instructions (if any besides cloning the repo)
-#Python packages should be listed appropriately in requirements.txt
-#Run instructions
-#What do I need to type to get your program to do its thing
-
 # Crawl-and-Cluster--Tools Project
 ### Our group name: Fantastic Four
 ### Group members: Zeqi Zhu (zz2568), Qi Li (ql2336), Jiani Lu (jl5240), Xiao Liang (xl2817)
@@ -13,7 +7,7 @@
 Our project was carried out in following parts.<br>
 
 * First part, we wrote a web crawler that searches the house prices on https://streeteasy.com/for-sale/manhattan in Manhanttan Area.<br> 
-  * `Attention:` As the website has the `anti-crawl setting`, which means each cookie can only allow us to crawl nearly four pages' data (nearly 40 data sets). Thus we set the length of pages we want to crawl into `4` in the code. In order to obtain a large-scale datasets (nearly one thousand datasets in our project), we have to refresh the website and update the cookie (check out line 12 in the code) each time when we execute the code. <br>
+  * `Attention:` As the website has the `anti-crawl setting`, which means each cookie can only allow us to crawl nearly four pages' data (nearly 40 data sets). Thus we set the length of pages we want to crawl into `4` in the code. In order to obtain a large-scale datasets (nearly one thousand datasets in our project), we have to refresh the website and update the cookie each time when we execute the code. <br>
   
   * In order to figure out how to overcome the `anti-crawl setting`, We make an assumption that the `anti-crawl setting` is based on the time interval when we crawl the data from different pages. We built another `try` branch to store the files. It is optional for you to review this branch. Our main work are on the `master` branch.
 
@@ -44,7 +38,7 @@ All the datas are differentiated into three types，and the datas marked in `Blu
   * The first type are maked in `Red 0`. These datasets represents those houses which are very close to the standard point, but the price are much higher.
   * The second type are marked in `Green 1`. These datasets represents those houses which prices are very close to the standard point, but the distance to our standard point are much too far.
   * The third type are marked in `Brown 2`. These datasets represents those houses which prices are very close to the standard point, as well as the location.
-  * If you are considering about purchasing your own house in Manhanttan, it would be a better strategy to start your research among those houses in the `Brown 2` type. If you do not care about the money, the `Red 0` type has a higher possibility containing your future potential home. And if you are working to your best to earn money, Type `Green 1` would be a better fit for you.
+  * If you are considering about purchasing your own house in Manhanttan, it would be a better strategy to start your research among those houses in the `Brown 2` type. If you do not care about the money, the `Red 0` type has a higher possibility containing your future potential home. And if you are working to your best to earn money, type `Green 1` would be a better fit for you.
 
 
 #### Packages need to install
@@ -59,4 +53,4 @@ All the datas are differentiated into three types，and the datas marked in `Blu
   * `matplotlib.pyplot`
 
 #### Run instructions
-* You have to refresh the website and add the new cookie into the code when you excute the code each time. 
+* You have to refresh the website https://streeteasy.com/for-sale/manhattan and add the new cookie into the code when you excute the code each time. 
