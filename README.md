@@ -22,10 +22,10 @@ Therefore, We came up with two ideas to firgure out this problem, which are list
   * For the [spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb),  , you can get all the raw data by excuting the code, and you will get one csv file which contains all the raw data. We suggest you to excute this code for your convenience.
 
 * Second part, we carried out analysis on the data we collected, based on the “K-means Clustering Algorithm". <br>
-  * The codes for this part are listed as `CSV merge and process.ipynb` and `K-means.ipynb`. <br>
-  * The `CSV merge and process.ipynb` has two functions. Merging several csv.files into one single csv.file and cleaning the raw data we initially collected from the website.<br>
-  * The raw data are listed in the `datafile.csv`, the data after being clearned are saved in the `processed_data.csv`. <br>
-  * The `K-means.ipynb` is used to 
+  * The codes for this part are listed as [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) and [K-means.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/kmeans.ipynb). <br>
+  * The [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) has two functions. Merging several csv.files into one single csv.file and cleaning the raw data we initially collected from the website.<br>
+  * The raw data are listed in the [datafile.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/datafile.csv), the data after being clearned are saved in the [processed_data.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/processed_data.csv). <br>
+  * The [K-means.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/kmeans.ipynb) is used to 
 
 * Data analysis Result<br>
 ![](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/visualized%20data.png)
