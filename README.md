@@ -29,8 +29,8 @@ Our project was carried out in following parts.<br>
 
 * Second part, we carried out analysis on the data we collected, based on the “K-means Clustering Algorithm". <br>
   * The codes for this part are listed as [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) and [K-means.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/kmeans.ipynb). <br>
-  * The [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) has two functions. Merging several csv.files into one single csv.file and cleaning the raw data we initially collected from the website.<br>
-  * The raw data are listed in the [datafile.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/datafile.csv), the data after being clearned are saved in the [processed_data.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/processed_data.csv). <br>
+  * The [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) has two functions. Merging several csv.files into one single csv.file if you choose to use [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) to crawl the data, and cleaning the raw data we initially collected from the website.<br>
+  * The raw data are listed in the [datafile.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/datafile.csv), the data after being clearned are saved in the [processed_data.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/processed_data.csv). <br> We convert the price of the house into unit price, and only keep four categories of the data, which are "unit price", "address", "type", "area". 
   * The [K-means.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/kmeans.ipynb) is used to 
 
 * Data analysis Result<br>
