@@ -40,12 +40,11 @@ Our project was carried out in following parts.<br>
 ![](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/visualized%20data.png)
 
 * Result Explanation <br>
-All the datas are differentiated into three types
+All the datas are differentiated into three types，and the datas marked in `Blue` represent the center points of these three different types.
   * The first type are maked in `Red 0`. These datasets represents those houses which are very close to the standard point, but the price are much higher.
   * The second type are marked in `Green 1`. These datasets represents those houses which prices are very close to the standard point, but the distance to our standard point are much too far.
   * The third type are marked in `Brown 2`. These datasets represents those houses which prices are very close to the standard point, as well as the location.
-  * If you are considering about purchasing your own house in Manhanttan, it would be a better strategy to start your research among those houses in the `Brown 2` type.
-  
+  * If you are considering about purchasing your own house in Manhanttan, it would be a better strategy to start your research among those houses in the `Brown 2` type. If you do not care about the money, the `Red 0` type has a higher possibility containing your future potential home. And if you are working to your best to earn money, Type `Green 1` would be a better fit for you.
 
 
 #### Packages need to install
