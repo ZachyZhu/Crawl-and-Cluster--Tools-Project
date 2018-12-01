@@ -1,0 +1,950 @@
+,id,price,address,type,bed,bath,area
+0,listing_1375919_featured,"$2,699,000",145 E 15th Street #16ST,Co-op,3 beds,2 baths,"1,700 ft??"
+1,listing_1357080_featured,"$1,895,000",30 Beekman Place #7C,Co-op,4 beds,2.5 baths,"2,400 ft??"
+2,listing_1378816,"$4,160,000",30 Riverside Boulevard #33C,Condo,2 beds,2.5 baths,"1,569 ft??"
+3,listing_1378815,"$3,400,000",635 West 59th Street #29D,Condo,2 beds,2 baths,"1,438 ft??"
+4,listing_1378814,"$1,925,000",30 Riverside Boulevard #22G,Condo,1 bed,1.5 baths,852 ft??
+5,listing_1378813,"$3,650,000",30 Riverside Boulevard #26G,Condo,2 beds,2.5 baths,"1,533 ft??"
+6,listing_1378809,"$590,000",320 East 83rd Street #3C,Co-op,1 bed,1 bath,
+7,listing_1378798,"$339,000",581 Academy Street #1C,Condo,1 bed,1 bath,500 ft??
+8,listing_1378796,"$1,248,000",252 South Street #12K,Condo,1 bed,1 bath,695 ft??
+9,listing_1378797,"$1,399,000",252 South Street #35F,Condo,1 bed,1 bath,722 ft??
+10,listing_1378795,"$1,425,000",252 South Street #10B,Condo,1 bed,1 bath,696 ft??
+11,listing_1378794,"$1,711,000",252 South Street #64L,Condo,1 bed,1 bath,709 ft??
+12,listing_1378793,"$1,576,000",252 South Street #59H,Condo,1 bed,1 bath,679 ft??
+13,listing_1353651_featured,"$7,350,000",275 West 10th Street #4/B,Condo,3 beds,3.5 baths,"2,891 ft??"
+14,listing_1376693_featured,"$7,335,000",49 Chambers Street #9EF,Condo,4 beds,5 baths,
+15,listing_1378792,"$1,640,000",252 South Street #40N,Condo,1 bed,1 bath,723 ft??
+16,listing_1378791,"$1,209,000",252 South Street #11F,Condo,1 bed,1 bath,695 ft??
+17,listing_1378789,"$3,375,000",231 West 26th Street #2,Condo,3 beds,2.5 baths,"1,867 ft??"
+18,listing_1378787,"$800,000",250 West 15th Street #5I,Co-op,1 bed,1 bath,700 ft??
+19,listing_1378786,"$2,995,000",234 East 23rd Street #14C,Condo,3 beds,2.5 baths,"1,597 ft??"
+20,listing_1378784,"$1,950,000",895 Park Avenue #1A,Co-op,,2 baths,"1,400 ft??"
+21,listing_1378782,"$1,500,000",895 Park Avenue #1B,Co-op,3 beds,1 bath,
+22,listing_1378781,"$1,499,000",165 West 66th Street #7A,Co-op,2 beds,2 baths,
+23,listing_1378778,"$1,275,000",35 Park Avenue #18B,Co-op,2 beds,2 baths,"1,367 ft??"
+24,listing_1378777,"$675,000",310 East 46th Street #14D,Condop,1 bed,1 bath,
+25,listing_1378773,"$648,000",350 West 50th Street #2PP,Condo,,1 bath,407 ft??
+26,listing_1375194_featured,"$1,895,000",252 South Street #9H,Condo,2 beds,2 baths,"1,156 ft??"
+27,listing_1377705_featured,"$1,050,000",43 West 61st Street #17J,Condo,1 bed,1 bath,820 ft??
+28,listing_1378772,"$1,199,000",529 W 42nd Street #9RR,Condo,2 beds,1 bath,
+29,listing_1378764,"$3,955,000",10 Riverside Boulevard #28D,Condo,2 beds,2.5 baths,"1,689 ft??"
+30,listing_1378763,"$705,000",100 La Salle Street #5A,Co-op,2 beds,1 bath,
+31,listing_1378762,"$6,405,000",10 Riverside Boulevard #27B,Condo,3 beds,3.5 baths,"2,398 ft??"
+32,listing_1378760,"$1,675,990",130 William Street #42C,Condo,1 bed,1 bath,802 ft??
+33,listing_1378755,"$2,100,000",300 East 54th Street #2L2K,Co-op,3 beds,3 baths,
+34,listing_1378744,"$550,000",7 East 14th Street #1525,Co-op,,1 bath,
+35,listing_1378728,"$3,400,000",200 Riverside Boulevard #6AB,Condo,4 beds,3+ baths,"2,370 ft??"
+36,listing_1378717,"$795,000",530  Grand Street #F11E,Co-op,2 beds,1 bath,
+37,listing_1378714,"$289,000",62 Park Terrace West #15,Co-op,,1 bath,600 ft??
+38,listing_1378713,"$1,949,000",301 East 52nd Street #2/1A,Co-op,3 beds,2.5 baths,"1,816 ft??"
+39,listing_1356216_featured,"$1,045,000",1325 Fifth Avenue #5H,Condo,2 beds,2 baths,919 ft??
+40,listing_1366682_featured,"$7,900,000",555 West End Avenue #3W,Condo,4 beds,4.5 baths,"2,716 ft??"
+41,listing_1378707,"$8,250,000",280 West 25th Street #1,Townhouse,5 beds,2 baths,"4,068 ft??"
+42,listing_1378705,"$398,000",242 East 38th Street #5F,Co-op,,1 bath,
+43,listing_1378703,"$1,495,000",20 Sutton Place South #18C,Co-op,3 beds,3 baths,"1,800 ft??"
+44,listing_1378701,"$699,000",675 West End Avenue #4C,Co-op,1 bed,1 bath,
+45,listing_1378695,"$1,600,000",2 Fifth Avenue #11R,Co-op,2 beds,1 bath,
+46,listing_1378692,"$1,350,000",160 Central Park South #2511,Condo,1 bed,1 bath,
+47,listing_1378690,"$825,000",251 East 32nd Street #9A,Co-op,2 beds,1 bath,
+48,listing_1378682,"$7,650,000",80 Riverside Boulevard #22/23D,Condo,6 beds,6+ baths,"3,700 ft??"
+49,listing_1378667,"$1,400,000",165 East 72nd Street #PHJ,Co-op,1 bed,1 bath,
+50,listing_1378661,"$759,900",401 East 86th Street #7H,Co-op,1 bed,1 bath,
+51,listing_1378658,"$4,995,000",277 Fifth Avenue #33A,Condo,3 beds,3 baths,"1,784 ft??"
+52,listing_1269059_featured,"$2,828,000",497 Greenwich Street #2C,Condo,1 bed,2 baths,"1,662 ft??"
+53,listing_1373296_featured,"$664,000",306 West 100th Street #65,Co-op,2 beds,1 bath,
+54,listing_1375608,"$2,500,000",455 Central Park West #23B,Condo,2 beds,2.5 baths,"1,333 ft??"
+55,listing_1375602,"$5,650,000",570 Broome Street #PHB,Condo,3 beds,3 baths,"1,943 ft??"
+56,listing_1375599,"$495,000",555 Lenox Avenue #3F,Condo,1 bed,1 bath,599 ft??
+57,listing_1375596,"$1,500,000",320 West 19th Street #1B,Co-op,3 beds,3 baths,
+58,listing_1375594,"$11,215,000",215 East 19th Street #16C,Condo,3 beds,3.5 baths,"3,757 ft??"
+59,listing_1375928,"$948,000",165 West 66th Street #21A,Co-op,1 bed,1 bath,
+60,listing_1375586,"$675,000",100 La Salle Street #11G,Co-op,2 beds,1 bath,904 ft??
+61,listing_1375582,"$795,000",11 Riverside Drive #4KW,Co-op,1 bed,1 bath,
+62,listing_1375581,"$779,900",401 East 86th Street #12H,Co-op,1 bed,1 bath,
+63,listing_1375580,"$1,465,000",401 East 74th Street #7D,Co-op,2 beds,2 baths,"1,200 ft??"
+64,listing_1375573,"$499,999",505 West 143rd Street #43,Co-op,2 beds,1 bath,
+65,listing_1360893_featured,"$13,995,000",111 West 67th Street #25D,Condo,5 beds,4.5 baths,"3,818 ft??"
+66,listing_1373960_featured,"$4,300,000",551 West 21st Street #4A,Condo,2 beds,2.5 baths,"2,113 ft??"
+67,listing_1375570,"$3,295,000",50 West 47th #20N,Condo,,1 bath,
+68,listing_1375564,"$9,900,000",10 Madison Square West #11E,Condo,3 beds,3.5 baths,"2,347 ft??"
+69,listing_1375562,"$800,000",155 West 15th Street #2F,Co-op,,1 bath,720 ft??
+70,listing_1375556,"$1,895,000",165 West 91st Street #7C,Condo,2 beds,2 baths,"1,068 ft??"
+71,listing_1375553,"$1,525,000",151 East 83rd Street #9H,Co-op,2 beds,2 baths,
+72,listing_1375552,"$3,920,000",15 Hudson Yards #37D,Condo,2 beds,2.5 baths,"1,559 ft??"
+73,listing_1375544,"$875,000",100 West 93rd Street #6D,Condo,1 bed,1 bath,493 ft??
+74,listing_1375542,"$2,995,000",37 Walker Street #3/4,Condo,3 beds,2.5 baths,"1,978 ft??"
+75,listing_1375541,"$1,734,000",100 West 93rd Street #2J,Condo,2 beds,2 baths,971 ft??
+76,listing_1375528,"$549,000",531 Main Street #911,Co-op,1 bed,1 bath,
+77,listing_1375527,"$849,000",400 East 56th Street #29O,Co-op,1 bed,1.5 baths,917 ft??
+78,listing_1363071_featured,"$13,500,000",207 East 71st Street ,Townhouse,8 beds,8+ baths,
+79,listing_1362127_featured,"$2,395,000",3 Hanover Square #20FG,Co-op,3 beds,3 baths,"2,100 ft??"
+80,listing_1375524,"$3,450,000",305 West 16th Street #PHD,Condop,3 beds,2.5 baths,"1,500 ft??"
+81,listing_1375521,"$585,000",254 East 7th Street #4,Co-op,1 bed,1 bath,
+82,listing_1375518,"$1,550,000",421 Hudson #524,Condo,1 bed,2 baths,
+83,listing_1375517,"$2,700,000",130 East 67th Street #2C,Co-op,2 beds,2.5 baths,"2,000 ft??"
+84,listing_1375515,"$679,000",340 East 93rd Street #21B,Co-op,1 bed,1 bath,
+85,listing_1375514,"$3,850,000",141 Fifth Avenue #3D,Condo,2 beds,2 baths,"1,691 ft??"
+86,listing_1375511,"$795,000",530 Grand Street #D4A,Co-op,2 beds,1 bath,
+87,listing_1375509,"$670,000",130 W 67th Street #19A,Co-op,1 bed,1 bath,
+88,listing_1375504,"$1,050,000",324 East 4th Street #6A,Condo,1 bed,1 bath,605 ft??
+89,listing_1375505,"$1,750,000",80 John Street #8C,Condo,3 beds,2 baths,"1,412 ft??"
+90,listing_1375503,"$1,700,000",77 Bleecker Street #113,Co-op,2 beds,2 baths,"1,350 ft??"
+91,listing_1340671_featured,"$7,500,000",75 Kenmare Street #PHC,Condo,2 beds,2 baths,"1,855 ft??"
+92,listing_1368434_featured,"$890,000",201 East 17th Street #14E,Co-op,1 bed,1 bath,
+93,listing_1375502,"$1,550,000",401 East 60th Street #23C,Condo,2 beds,1.5 baths,"1,108 ft??"
+94,listing_1375499,"$415,000",319 East 50th Street #9L,Co-op,,1 bath,500 ft??
+95,listing_1375498,"$14,995,000",35 East 76th Street #26,Co-op,4 beds,4.5 baths,
+96,listing_1375497,"$6,300,000",249 Waverly Place ,Townhouse,3 beds,3.5 baths,"2,800 ft??"
+97,listing_1375496,"$1,295,000",20 Pine Street #1611,Condo,,1 bath,"1,225 ft??"
+98,listing_1375495,"$535,000",35 East 30th Street #9C,Co-op,1 bed,1 bath,
+99,listing_1375493,"$725,000",345 West 58th Street #6S,Co-op,1 bed,1 bath,708 ft??
+100,listing_1375488,"$975,000",348 West 36th Street #2N,Co-op,1 bed,1 bath,900 ft??
+101,listing_1375489,"$449,000",137 West 142nd Street #3A,Co-op,2 beds,1 bath,
+102,listing_1375480,"$300,000",501 West 156th Street #41,Co-op,2 beds,1 bath,
+103,listing_1375479,"$848,000",51 Saint Marks Place #10,Co-op,1 bed,1 bath,850 ft??
+104,listing_1376072_featured,"$4,100,000",251 West 19th Street #9C,Condo,3 beds,2 baths,
+105,listing_1366467_featured,"$1,095,000",50 King Street #8B,Co-op,1 bed,1 bath,
+106,listing_1375488,"$975,000",348 West 36th Street #2N,Co-op,1 bed,1 bath,900 ft??
+107,listing_1375489,"$449,000",137 West 142nd Street #3A,Co-op,2 beds,1 bath,
+108,listing_1375480,"$300,000",501 West 156th Street #41,Co-op,2 beds,1 bath,
+109,listing_1375479,"$848,000",51 Saint Marks Place #10,Co-op,1 bed,1 bath,850 ft??
+110,listing_1375476,"$2,150,000",220 East 65th Street #9IG,Condo,3 beds,3 baths,
+111,listing_1375471,"$799,000",817 West End Avenue #11E,Condo,1 bed,1 bath,685 ft??
+112,listing_1375464,"$3,500,000",222 Riverside Drive #9B,Condo,3 beds,3.5 baths,"1,900 ft??"
+113,listing_1375463,"$4,350,000",21 West 121 ,Multi-family,10 beds,5.5 baths,"5,880 ft??"
+114,listing_1375462,"$1,225,000",530 Grand Street #F10H,Co-op,3 beds,2 baths,"1,250 ft??"
+115,listing_1375460,"$5,050,000",157 W 57th Street #36E,Condo,1 bed,2 baths,"1,406 ft??"
+116,listing_1375456,"$375,000",159 Madison Avenue #5JJ,Co-op,,1 bath,
+117,listing_1367617_featured,"$1,750,000",440 Riverside Drive #83,Co-op,2 beds,2 baths,
+118,listing_1376732_featured,"$2,595,000",151 West 17th Street #2H,Condo,2 beds,2 baths,"1,683 ft??"
+119,listing_1375452,"$635,000",100 West 57th Street #11M,Co-op,2 beds,2 baths,"1,200 ft??"
+120,listing_1375448,"$784,000",283 E 4th Street #4C1,Co-op,2 beds,1 bath,
+121,listing_1375441,"$17,500,000",157 W 57th Street #43C,Condo,4 beds,4.5 baths,"3,466 ft??"
+122,listing_1375440,"$729,000",300 East 40th Street #6H,Condop,,1 bath,
+123,listing_1375438,"$750,000",345 East 80th Street #10E,Condo,1 bed,1 bath,625 ft??
+124,listing_1375431,"$4,590,000",404 Park Avenue South #6D,Condo,3 beds,2.5 baths,"1,762 ft??"
+125,listing_1375430,"$949,000",635 West 42nd Street #20M,Condo,1 bed,1 bath,613 ft??
+126,listing_1375428,"$995,000",150 East 56th Street #4G,Condo,2 beds,1 bath,790 ft??
+127,listing_1375426,"$849,000",345 East 73rd Street #PHE,Co-op,2 beds,1 bath,
+128,listing_1375424,"$4,998,000",60 Riverside Boulevard #A3201,Condo,4 beds,4 baths,"2,255 ft??"
+129,listing_1375423,"$995,000",200 East 61st Street #12F,Condo,1 bed,1 bath,736 ft??
+130,listing_1358254_featured,"$878,000",40 Pinehurst Avenue #5D,Condo,2 beds,1.5 baths,862 ft??
+131,listing_1208614_featured,"$65,000,000",100 East 53rd Street #PH,Condo,4 beds,4.5 baths,"6,760 ft??"
+132,listing_1375422,"$995,000",16 West 16th Street #12MN,Co-op,1 bed,1 bath,
+133,listing_1375420,"$2,995,000",360 East 88th Street #36C,Condo,3 beds,3.5 baths,"2,237 ft??"
+134,listing_1375417,"$3,100,000",225 Rector Place #PH2B,Condo,3 beds,3 baths,"1,963 ft??"
+135,listing_1375416,"$175,000",529 West 152nd Street #31,Co-op,,1 bath,300 ft??
+136,listing_1375414,"$899,000",55 Wall Street #546,Condo,,1 bath,
+137,listing_1375405,"$649,000",401 East 89th Street #12L,Condop,,1 bath,
+138,listing_1375404,"$849,000",401 East 89th Street #12G,Condop,1 bed,1 bath,
+139,listing_1375388,"$2,925,000",201 West 89th Street #7A,Co-op,3 beds,2 baths,"1,800 ft??"
+140,listing_1375387,"$2,750,000",111 East 30th Street #1C,Condo,2 beds,2.5 baths,"1,575 ft??"
+141,listing_1375384,"$1,695,000",70 Charlton Street #18D,Condop,1 bed,1 bath,831 ft??
+142,listing_1375383,"$4,775,000",70 Charlton Street #17E,Condop,4 beds,4.5 baths,"2,252 ft??"
+143,listing_1348351_featured,"$3,690,000",374 Broome Street #4B,Condo,2 beds,2 baths,"1,970 ft??"
+144,listing_1376693_featured,"$7,335,000",49 Chambers Street #9EF,Condo,4 beds,5 baths,
+145,listing_1375382,"$3,215,000",70 Charlton Street #9D,Condop,3 beds,3 baths,"1,631 ft??"
+146,listing_1375381,"$1,995,000",50 Franklin Street #12B,Condo,2 beds,2 baths,"1,024 ft??"
+147,listing_1375380,"$675,000",123 West 80th Street #2R,Co-op,1 bed,1 bath,525 ft??
+148,listing_1375378,"$29,250,000",111 West 57th Street #49,Condo,3 beds,3.5 baths,"4,491 ft??"
+149,listing_1375376,"$1,900,000",301 W 57th Street #25A,Condo,1 bed,1 bath,789 ft??
+150,listing_1375375,"$1,400,000",117 West 123rd Street #4A,Condo,2 beds,2 baths,"1,234 ft??"
+151,listing_1375373,"$540,000",47 Ft Washington Avenue #67,Co-op,3 beds,2 baths,
+152,listing_1375372,"$1,250,000",200 Rector Place #4Y,Condo,2 beds,2 baths,"1,054 ft??"
+153,listing_1375356,"$1,395,000",55 W 95th Street #75,Co-op,2 beds,1 bath,
+154,listing_1375354,"$705,000",53 West 11th Street #2E,Co-op,1 bed,1 bath,
+155,listing_1375353,"$2,600,000",430 West 23rd Street #PHE,Co-op,2 beds,2 baths,
+156,listing_1363661_featured,"$5,825,000",269 West 87th Street #15A,Condop,3 beds,3.5 baths,"2,356 ft??"
+157,listing_1358808_featured,"$849,000",340 East 74th Street #6E,Co-op,2 beds,1 bath,
+158,listing_1375351,"$11,750,000",140 East 65th Street ,Townhouse,5 beds,6 baths,"6,950 ft??"
+159,listing_1375352,"$1,295,000",61 West 62nd Street #22D,Co-op,1 bed,1.5 baths,
+160,listing_1375348,"$699,000",144 East 84th Street #7G,Co-op,1 bed,1 bath,
+161,listing_1375347,"$850,000",333 East 45th Street #12B,Condo,1 bed,1 bath,
+162,listing_1375344,"$4,500,000",190 East 72nd Street #34CD,Co-op,5 beds,6 baths,
+163,listing_1375332,"$1,950,000",23 West 73 #607A,Co-op,3 beds,2 baths,
+164,listing_1375331,"$6,995,000",12 West 72 PENTHOUSE-B,Co-op,4 beds,4 baths,
+165,listing_1375330,"$1,195,000",45 East End Avenue #5H,Co-op,2 beds,2 baths,"1,100 ft??"
+166,listing_1375326,"$500,000",88 Bleecker Street #6B,Co-op,,1 bath,
+167,listing_1375325,"$3,495,000",88 Lexington #702,Condo,2 beds,2.5 baths,"1,873 ft??"
+168,listing_1375321,"$7,250,000",304 West 18th Street ,Townhouse,2 beds,5 baths,"3,363 ft??"
+169,listing_1349258_featured,"$1,895,000",124 West 93rd Street #4B,Condo,2 beds,2 baths,
+170,listing_1363813_featured,"$3,600,000",35 East 76th Street #1909,Co-op,2 beds,3 baths,
+171,listing_1375315,"$1,260,000",10 West End Avenue #5G,Condo,1 bed,1 bath,829 ft??
+172,listing_1375311,"$1,050,000",420 East 64th Street #E7H,Condop,1 bed,1 bath,930 ft??
+173,listing_1375306,"$425,000",65 Park Terrace East #C58,Co-op,1 bed,1 bath,800 ft??
+174,listing_1375303,"$1,450,000",18 W 48th Street #14A,Condo,1 bed,1.5 baths,848 ft??
+175,listing_1375301,"$4,900,000",1001 Park Avenue #1N/2N,Co-op,4 beds,4.5 baths,
+176,listing_1375297,"$2,250,000",45 East 22nd Street #18B,Condo,1 bed,1 bath,"1,087 ft??"
+177,listing_1375295,"$12,950,000",40 Sullivan Street ,Townhouse,4 beds,7 baths,"6,709 ft??"
+178,listing_1375296,"$399,000",301 East 63rd Street #14H,Co-op,1 bed,1 bath,
+179,listing_1375293,"$3,150,000",27 Leonard Street #5,Condo,1 bed,2 baths,"1,650 ft??"
+180,listing_1375294,"$1,150,000",70 East 10th Street #5G,Co-op,1 bed,1 bath,
+181,listing_1375291,"$2,995,000",100 Norfolk Street #3C,Condo,2 beds,2.5 baths,"1,298 ft??"
+182,listing_1365629_featured,"$15,750,000",200 East 59th Street #PH32,Condo,3 beds,4.5 baths,"3,924 ft??"
+183,listing_1375194_featured,"$1,895,000",252 South Street #9H,Condo,2 beds,2 baths,"1,156 ft??"
+184,listing_1375292,"$949,000",250 West 16th Street #3C,Co-op,1 bed,1 bath,800 ft??
+185,listing_1375290,"$4,200,000",196 Orchard Street #10D,Condo,3 beds,3 baths,"1,555 ft??"
+186,listing_1375286,"$635,000",234 West 148th Street #4E,Condo,1 bed,1 bath,750 ft??
+187,listing_1375284,"$765,000",308 E 38th Street #6F,Condo,1 bed,1 bath,645 ft??
+188,listing_1375283,"$749,000",157 East 72nd Street #8J,Condo,1 bed,1 bath,650 ft??
+189,listing_1375280,"$399,000",249 East 7th Street #1,Co-op,,1 bath,
+190,listing_1375279,"$20,000,000",895 Park Avenue #89B,Co-op,6 beds,7.5 baths,
+191,listing_1375278,"$779,000",121 East 23rd Street #8G,Condo,,1 bath,
+192,listing_1375275,"$1,225,000",11 East 29th Street #7B,Condo,1 bed,1 bath,767 ft??
+193,listing_1375276,"$1,165,000",77 Park Avenue #7G,Condo,1 bed,1.5 baths,800 ft??
+194,listing_1375266,"$8,550,000",1 Central Park West #32D,Condo,3 beds,3.5 baths,"2,165 ft??"
+195,listing_1378271_featured,"$3,695,000",1441 Third Avenue #PH,Condo,3 beds,2.5 baths,
+196,listing_1302303_featured,"$995,000",385 First Avenue #2F,Condo,1 bed,1 bath,720 ft??
+197,listing_1375264,"$399,000",408 East 73rd Street #5C,Co-op,1 bed,1 bath,
+198,listing_1375263,"$2,295,000",470 West 24th Street #18A,Co-op,2 beds,2 baths,
+199,listing_1375262,"$3,825,000",200 East 89th Street 10128 #44/45S,Condo,2 beds,2.5 baths,"1,600 ft??"
+200,listing_1375261,"$450,000",354 West 12th Street #1C,Co-op,,1 bath,
+201,listing_1375259,"$1,680,000",200 Rector Place #36M,Condo,1 bed,2 baths,"1,150 ft??"
+202,listing_1375258,"$1,450,000",175 East 62nd Street #5A,Co-op,3 beds,2.5 baths,"2,000 ft??"
+203,listing_1375242,"$799,000",300 East 71st Street #11L,Co-op,1 bed,1 bath,
+204,listing_1375238,"$1,495,000",161 West 16th Street #16G,Co-op,1 bed,1 bath,
+205,listing_1375237,"$4,699,000",350 East 82nd Street #PHCD,Condo,4 beds,4 baths,"2,758 ft??"
+206,listing_1375236,"$3,400,000",1025 Fifth Avenue #8F/N,Co-op,3 beds,3.5 baths,
+207,listing_1375235,"$399,000",301 East 64th Street #12J,Co-op,,1 bath,
+208,listing_1378386_featured,"$1,695,000",515 East 72nd Street #4P,Condo,2 beds,2 baths,"1,027 ft??"
+209,listing_1364344_featured,"$1,995,000",505 West 43rd Street #6F,Condo,2 beds,2 baths,"1,041 ft??"
+210,listing_1375227,"$1,275,000",160 W 77th Street #3D,Co-op,2 beds,2 baths,
+211,listing_1375217,"$820,000",200 West 86th Street #16L,Co-op,1 bed,1 bath,
+212,listing_1375213,"$985,000",196 Orchard Street #6M,Condo,,1 bath,573 ft??
+213,listing_1375211,"$640,000",1175 York Avenue #2J,Condo,1 bed,1 bath,
+214,listing_1375208,"$2,995,000",100 Barclay Street #15J,Condo,2 beds,2.5 baths,"1,410 ft??"
+215,listing_1375206,"$499,000",413 Grand #F202,Co-op,,1 bath,500 ft??
+216,listing_1375204,"$379,000",417 East 90th Street #2C,Co-op,,1 bath,500 ft??
+217,listing_1375203,"$750,000",415 East 52nd Street #9FC,Co-op,1 bed,1 bath,
+218,listing_1375202,"$3,250,000",329 West 108th Street #4B/D,Co-op,4 beds,3 baths,"2,412 ft??"
+219,listing_1375196,"$2,736,000",252 South Street #34A,Condo,2 beds,2 baths,"1,163 ft??"
+220,listing_1375197,"$2,602,000",252 South Street #48G,Condo,2 beds,2 baths,"1,156 ft??"
+221,listing_1354505_featured,"$3,550,000",200 Central Park South #8HI,Co-op,3 beds,2.5 baths,"2,000 ft??"
+222,listing_1370258_featured,"$13,950,000",60 Riverside Boulevard #2101,Condo,6 beds,8.5 baths,"5,641 ft??"
+223,listing_1375195,"$2,297,000",252 South Street #29L,Condo,2 beds,2 baths,"1,123 ft??"
+224,listing_1375194,"$1,895,000",252 South Street #9H,Condo,2 beds,2 baths,"1,156 ft??"
+225,listing_1375193,"$2,466,000",252 South Street #51B,Condo,2 beds,2 baths,"1,045 ft??"
+226,listing_1375191,"$3,635,000",252 South Street #76E,Condo,3 beds,2 baths,"1,400 ft??"
+227,listing_1375189,"$6,605,000",252 South Street #57J,Condo,3 beds,3.5 baths,"2,347 ft??"
+228,listing_1375190,"$2,996,000",252 South Street #62D,Condo,2 beds,2 baths,"1,170 ft??"
+229,listing_1375188,"$3,838,000",252 South Street #41C,Condo,3 beds,3 baths,"1,487 ft??"
+230,listing_1375186,"$4,398,000",252 South Street #59A,Condo,3 beds,3 baths,"1,667 ft??"
+231,listing_1375187,"$2,150,000",252 South Street #15E,Condo,2 beds,2 baths,"1,123 ft??"
+232,listing_1375181,"$799,000",305 East 24th Street #7D,Co-op,1 bed,1 bath,850 ft??
+233,listing_1375180,"$349,000",155 East 49th Street #3C,Co-op,,1 bath,
+234,listing_1364672_featured,"$750,000",345 East 80th Street #10H,Condo,1 bed,1 bath,627 ft??
+235,listing_1260457_featured,"$2,850,000",360 East 89th Street #15C,Condo,2 beds,2.5 baths,"1,680 ft??"
+236,listing_1375173,"$1,711,000",252 South Street #65L,Condo,1 bed,1 bath,709 ft??
+237,listing_1375174,"$7,904,000",200 E 95th Street #28B,Condo,4 beds,4.5 baths,"2,688 ft??"
+238,listing_1375172,"$1,569,000",252 South Street #57H,Condo,1 bed,1 bath,679 ft??
+239,listing_1375171,"$1,216,000",252 South Street #12F,Condo,1 bed,1 bath,695 ft??
+240,listing_1375170,"$1,434,000",252 South Street #12B,Condo,1 bed,1 bath,696 ft??
+241,listing_1375169,"$6,077,000",200 E 95th Street #9B,Condo,4 beds,4.5 baths,"2,735 ft??"
+242,listing_1375167,"$1,610,000",252 South Street #34N,Condo,1 bed,1 bath,723 ft??
+243,listing_1375168,"$1,630,000",252 South Street #72G,Condo,1 bed,1 bath,688 ft??
+244,listing_1375166,"$1,352,000",252 South Street #22K,Condo,1 bed,1 bath,695 ft??
+245,listing_1375164,"$2,000,000",130 West 30th Street #2A,Condo,1 bed,2 baths,"1,661 ft??"
+246,listing_1375163,"$525,000",325 East 41st Street #504,Co-op,1 bed,1 bath,
+247,listing_1347110_featured,"$3,375,000",460 East 79th Street #17AB,Condo,4 beds,4 baths,"2,700 ft??"
+248,listing_1377549_featured,"$4,994,995",160 Leroy Street NORTH8C,Condo,2 beds,2.5 baths,"1,728 ft??"
+249,listing_1375158,"$950,000",160 East 65th Street #11E,Co-op,1 bed,1.5 baths,"1,000 ft??"
+250,listing_1375155,"$1,300,000",58 West 58th Street #33B,Condo,1 bed,1 bath,
+251,listing_1375154,"$995,000",115 East 9th Street #18D,Co-op,1 bed,1 bath,
+252,listing_1375150,"$7,950,000",1301 Third Avenue ,Multi-family,8 beds,8 baths,
+253,listing_1375142,"$4,872,000",200 E 95th Street #26C,Condo,3 beds,3 baths,"1,959 ft??"
+254,listing_1375141,"$3,761,000",200 E 95th Street #6G,Condo,3 beds,3 baths,"1,871 ft??"
+255,listing_1375134,"$820,000",540 West 49th Street #302S,Condo,,1 bath,521 ft??
+256,listing_1375129,"$2,350,000",160 Central Park South #30007,Condo,1 bed,1 bath,904 ft??
+257,listing_1375125,"$3,299,000",60 Riverside Boulevard #1112,Condo,3 beds,3.5 baths,"2,075 ft??"
+258,listing_1375111,"$1,600,000",250 East 87th Street #3AJ,Co-op,4 beds,2 baths,"1,625 ft??"
+259,listing_1375107,"$5,350,000",211 West 14th Street #TH,Condo,3 beds,3.5 baths,"2,081 ft??"
+260,listing_1337483_featured,"$1,595,000",201 East 36th Street #19B,Condo,2 beds,2 baths,"1,339 ft??"
+261,listing_1366481_featured,"$26,500,000",111 West 57th Street #53,Condo,3 beds,3.5 baths,"4,182 ft??"
+262,listing_1375100,"$3,500,000",1 Gracie Square #8W,Co-op,3 beds,2 baths,
+263,listing_1375098,"$1,995,000",546 West 148th Street ,Multi-family,5 beds,4 baths,"3,536 ft??"
+264,listing_1375090,"$899,000",296 East 2nd Street #3F,Condo,1 bed,1 bath,797 ft??
+265,listing_1375089,"$2,495,000",860 Fifth Avenue #6C,Co-op,2 beds,3 baths,
+266,listing_1375087,"$2,295,000",318 West 47th Street #2,Condo,2 beds,2 baths,"1,313 ft??"
+267,listing_1375086,"$2,195,000",1170 Fifth Avenue #11C,Co-op,3 beds,3 baths,
+268,listing_1375084,"$9,999,000",260 West Broadway #1/2C,Condo,5 beds,6 baths,"8,100 ft??"
+269,listing_1375083,"$2,995,000",220 Riverside Boulevard #24C,Condo,3 beds,3 baths,"1,833 ft??"
+270,listing_1375082,"$1,108,888",516 West 47th Street #N4A,Condo,2 beds,2 baths,
+271,listing_1375073,"$17,500,000",960 Fifth Avenue #MAISB,Co-op,3 beds,3.5 baths,
+272,listing_1375072,"$6,995,000",15 East 91st Street #9A,Co-op,4 beds,4 baths,
+273,listing_1337735_featured,"$4,900,000",655 Park Avenue #4D,Co-op,3 beds,2 baths,"2,350 ft??"
+274,listing_1361333_featured,"$1,560,000",1325 Fifth Avenue #6C,Condo,3 beds,2 baths,"1,332 ft??"
+275,listing_1375070,"$2,250,000",465 Park Avenue #12B,Co-op,2 beds,2.5 baths,
+276,listing_1375069,"$5,950,000",150 East 23rd Street #PHA,Condo,3 beds,3.5 baths,"2,382 ft??"
+277,listing_1375066,"$4,250,000",150 East 23rd Street #16B,Condo,3 beds,2.5 baths,"2,008 ft??"
+278,listing_1375065,"$1,385,000",167 East 82nd Street #3D,Condo,1 bed,1 bath,878 ft??
+279,listing_1375064,"$5,450,000",125 East 72nd Street #7D,Co-op,4 beds,4 baths,
+280,listing_1375063,"$4,500,000",325 East 82nd Street ,Townhouse,6 beds,2 baths,
+281,listing_1375062,"$3,145,000",150 East 23rd Street #11B,Condo,3 beds,3 baths,"1,571 ft??"
+282,listing_1375060,"$2,975,000",150 East 23rd Street #3C,Condo,3 beds,3 baths,"1,619 ft??"
+283,listing_1375058,"$2,255,000",315 East 65th Street #3JH,Co-op,4 beds,3 baths,
+284,listing_1375057,"$3,100,000",150 East 23rd Street #17B,Condo,2 beds,2.5 baths,"1,427 ft??"
+285,listing_1375054,"$2,500,000",150 East 23rd Street #9D,Condo,2 beds,2.5 baths,"1,302 ft??"
+286,listing_1345665_featured,"$2,999,950",454 West 46th Street #PH7AS,Co-op,2 beds,2 baths,
+287,listing_1353850_featured,"$568,000",20 West Street #44F,Condo,,1 bath,
+288,listing_1375053,"$575,000",150 West 51st Street #903,Condo,,1 bath,400 ft??
+289,listing_1375052,"$2,375,000",150 East 23rd Street #5D,Condo,2 beds,2.5 baths,"1,302 ft??"
+290,listing_1375049,"$2,699,000",323 East 116th Street ,Townhouse,6 beds,6+ baths,"4,760 ft??"
+291,listing_1375048,"$1,795,000",40 West 77th Street #3A,Co-op,2 beds,2 baths,
+292,listing_1375047,"$14,950,000",498 West End Avenue #PH,Condo,5 beds,4.5 baths,"3,646 ft??"
+293,listing_1375046,"$1,895,000",215 West 122nd Street #PH,Condo,3 beds,2.5 baths,"1,345 ft??"
+294,listing_1375045,"$3,310,000",685 First Avenue #32D,Condo,2 beds,2.5 baths,"1,564 ft??"
+295,listing_1375042,"$1,600,000",188 East 64th Street #902,Condo,1 bed,2 baths,920 ft??
+296,listing_1375040,"$960,000",322 West 57 #19D,Condo,1 bed,1 bath,583 ft??
+297,listing_1375039,"$2,200,000",150 East 23rd Street #2A,Condo,2 beds,2.5 baths,"1,342 ft??"
+298,listing_1375038,"$1,845,000",150 East 23rd Street #8B,Condo,2 beds,2 baths,908 ft??
+299,listing_1363661_featured,"$5,825,000",269 West 87th Street #15A,Condop,3 beds,3.5 baths,"2,356 ft??"
+300,listing_1378772_featured,"$1,199,000",529 W 42nd Street #9RR,Condo,2 beds,1 bath,
+301,listing_1375037,"$3,350,000",75 Wall Street #34O,Condo,3 beds,3 baths,"1,914 ft??"
+302,listing_1375036,"$3,850,000",1212 Fifth Avenue #5B,Condo,3 beds,3 baths,"1,804 ft??"
+303,listing_1375034,"$2,255,000",315 East 65th Street #3HJ,Co-op,4 beds,3 baths,
+304,listing_1375033,"$1,100,000",208 E Broadway #J1406,Co-op,2 beds,1 bath,"1,000 ft??"
+305,listing_1375032,"$6,600,000",129 Lafayette Street #10A,Condo,3 beds,2.5 baths,"3,008 ft??"
+306,listing_1375031,"$1,185,000",150 East 23rd Street #7A,Condo,1 bed,1 bath,702 ft??
+307,listing_1375029,"$1,195,000",470 West 24th Street #9J,Co-op,1 bed,1 bath,875 ft??
+308,listing_1375027,"$1,110,000",150 East 23rd Street #3A,Condo,1 bed,1 bath,692 ft??
+309,listing_1375019,"$4,450,000",39 Vestry Street #3A,Condo,3 beds,2.5 baths,"2,230 ft??"
+310,listing_1375013,"$1,680,000",781 Fifth Avenue #1111,Co-op,1 bed,2 baths,
+311,listing_1375008,"$1,095,000",150 East 23rd Street #4B,Condo,1 bed,1 bath,646 ft??
+312,listing_1367085_featured,"$1,800,000",635 West 42nd Street #28F,Condo,2 beds,2 baths,
+313,listing_1360623_featured,"$2,495,000",785 Park Avenue #15A,Co-op,2 beds,2.5 baths,"1,575 ft??"
+314,listing_1375003,"$590,000",420 Central Park West #2D,Condo,,1 bath,400 ft??
+315,listing_1375000,"$4,315,000",15 Hudson Yards #27G,Condo,2 beds,2.5 baths,"1,464 ft??"
+316,listing_1374996,"$1,150,000",340 East 80th Street #15E,Co-op,2 beds,2 baths,
+317,listing_1374994,"$750,000",16 West 16th Street #8GN,Co-op,1 bed,1 bath,600 ft??
+318,listing_1374990,"$1,700,000",10 West 66th Street #33G,Co-op,1 bed,1.5 baths,850 ft??
+319,listing_1374978,"$1,975,000",375 West End Avenue #7A,Co-op,2 beds,2 baths,
+320,listing_1374976,"$720,000",345 East 80th Street #18L,Condo,1 bed,1 bath,592 ft??
+321,listing_1374975,"$2,950,000",421 W 54th #4D,Condo,3 beds,3 baths,"2,378 ft??"
+322,listing_1374972,"$3,995,000",475 Park Avenue #9AB,Co-op,3 beds,4 baths,
+323,listing_1374969,"$4,485,000",100 Barclay Street #16L,Condo,3 beds,3 baths,"2,064 ft??"
+324,listing_1374967,"$2,495,000",400 East 54th Street #28AH,Condo,2 beds,3 baths,"1,615 ft??"
+325,listing_1308587_featured,"$674,000",150 Central Park South #709,Co-op,,1 bath,
+326,listing_1340840_featured,"$6,825,000",269 West 87th Street TOWNHOUSE1,Condop,4 beds,4.5 baths,"3,749 ft??"
+327,listing_1374964,"$899,000",1810 Third Avenue #B9D,Condo,3 beds,1 bath,847 ft??
+328,listing_1374963,"$1,575,000",416 W 52nd Street #725,Condo,2 beds,2 baths,960 ft??
+329,listing_1374961,"$1,900,000",137 Riverside Drive #5E,Co-op,2 beds,2 baths,
+330,listing_1374951,"$7,995,000",285 Lafayette Street #5E,Condo,2 beds,2 baths,"2,660 ft??"
+331,listing_1374948,"$995,000",236 East 47th Street #25B,Condo,1 bed,1 bath,653 ft??
+332,listing_1374947,"$50,000,000",520 West 28th Street #PH37,Condo,5 beds,6.5 baths,"6,853 ft??"
+333,listing_1374946,"$1,275,000",425 5th Avenue #31A,Condo,2 beds,1 bath,789 ft??
+334,listing_1374940,"$10,750,000",443 Greenwich Street #2J,Condo,3 beds,3.5 baths,"2,868 ft??"
+335,listing_1374938,"$6,900,000",455 West 20th Street #4W,Condo,3 beds,3 baths,"2,476 ft??"
+336,listing_1374937,"$6,900,000",455 West 20th Street #4W,Condo,3 beds,3 baths,"2,476 ft??"
+337,listing_1374933,"$995,000",345 West 145th Street #14B23,Co-op,4 beds,2 baths,"1,500 ft??"
+338,listing_1363621_featured,"$10,950,000",157 W 57th Street #38F,Condo,3 beds,3.5 baths,"2,416 ft??"
+339,listing_1375762_featured,"$515,000",310 West 56th Street #6G,Co-op,,1 bath,
+340,listing_1374932,"$11,900,000",111 Central Park North #17ABC,Condo,6 beds,5.5 baths,"5,400 ft??"
+341,listing_1374931,"$575,000",150 East 93rd Street #6C,Co-op,1 bed,1 bath,
+342,listing_1374930,"$1,750,000",426 West Broadway #3A,Condo,2 beds,1 bath,"1,040 ft??"
+343,listing_1374928,"$580,000",64 East 111th Street #101,Co-op,1 bed,1 bath,776 ft??
+344,listing_1374922,"$2,595,000",416 W 52nd Street #512,Condo,3 beds,2.5 baths,"1,929 ft??"
+345,listing_1374921,"$1,920,000",416 W 52nd Street #506,Condo,2 beds,2 baths,"1,386 ft??"
+346,listing_1375408,"$1,500,000",130 Barrow Street #406,Condo,1 bed,1 bath,
+347,listing_1374912,"$2,060,000",111 Murray Street #12D,Condo,,1 bath,755 ft??
+348,listing_1374911,"$4,395,000",261 West 28th Street #PHB,Condo,3 beds,2.5 baths,
+349,listing_1374904,"$1,050,000",120 Riverside Boulevard #14J,Condo,1 bed,1 bath,798 ft??
+350,listing_1374900,"$2,495,000",225 West 17th Street #6B,Condo,2 beds,2.5 baths,"1,483 ft??"
+351,listing_1374285_featured,"$1,575,000",303 East 33rd Street #11C,Condo,2 beds,1 bath,"1,062 ft??"
+352,listing_1368492_featured,"$2,750,000",5 Beekman Street #23A,Condo,2 beds,2.5 baths,"1,625 ft??"
+353,listing_1374896,"$11,820,000",15 Hudson Yards #69B,Condo,4 beds,4.5 baths,"3,058 ft??"
+354,listing_1374895,"$7,555,000",15 Hudson Yards #66E,Condo,2 beds,2.5 baths,"2,502 ft??"
+355,listing_1374894,"$5,070,000",15 Hudson Yards #34A,Condo,2 beds,2.5 baths,"1,778 ft??"
+356,listing_1374886,"$900,000",225 Rector Place #8C,Condo,1 bed,1 bath,687 ft??
+357,listing_1374876,"$1,995,000",555 West 23rd Street #S14F,Condo,2 beds,2 baths,"1,238 ft??"
+358,listing_1374872,"$5,655,000",15 Hudson Yards #77D,Condo,2 beds,2.5 baths,"1,741 ft??"
+359,listing_1374871,"$5,875,000",15 Hudson Yards #63D,Condo,2 beds,2.5 baths,"2,020 ft??"
+360,listing_1374861,"$499,000",1420 York Avenue #3B,Condo,,1 bath,
+361,listing_1374858,"$815,000",457 Fdr Dr #A504,Co-op,2 beds,1 bath,"1,000 ft??"
+362,listing_1374855,"$14,750,000",12 East 12th Street #10,Condo,5 beds,4.5 baths,"5,600 ft??"
+363,listing_1374848,"$1,575,000",301 West 118th Street #6A,Condo,3 beds,2 baths,"1,337 ft??"
+364,listing_1374645_featured,"$4,395,000",30 Warren Street #6C,Condo,3 beds,3.5 baths,"1,915 ft??"
+365,listing_1365662_featured,"$4,150,000",200 East 21st Street #19A,Condo,2 beds,2.5 baths,"1,674 ft??"
+366,listing_1374858,"$815,000",457 Fdr Dr #A504,Co-op,2 beds,1 bath,"1,000 ft??"
+367,listing_1374855,"$14,750,000",12 East 12th Street #10,Condo,5 beds,4.5 baths,"5,600 ft??"
+368,listing_1374848,"$1,575,000",301 West 118th Street #6A,Condo,3 beds,2 baths,"1,337 ft??"
+369,listing_1374843,"$2,895,000",470 West End Avenue #15B,Co-op,2 beds,2 baths,
+370,listing_1374841,"$3,250,000",160 East 22nd Street #11E,Condo,3 beds,2 baths,"1,540 ft??"
+371,listing_1374839,"$4,100,000",404 Park Avenue South #12A,Condo,2 beds,2.5 baths,"1,695 ft??"
+372,listing_1374835,"$865,000",354 West 23rd Street #3A,Co-op,1 bed,1 bath,
+373,listing_1374833,"$1,770,000",24 Fifth Avenue 1623/1624,Co-op,2 beds,2 baths,
+374,listing_1374825,"$2,999,000",230 West 78th Street #6A,Condo,3 beds,2.5 baths,
+375,listing_1374824,"$1,850,000",25 Sutton Place South #14F,Co-op,2 beds,2 baths,
+376,listing_1374822,"$2,395,000",220 West 148th Street #4D,Condo,3 beds,3 baths,"2,700 ft??"
+377,listing_1340794_featured,"$580,000",333 East 53rd Street #8A,Co-op,1 bed,1 bath,
+378,listing_1159862_featured,"$16,450,000",30 Park Place #PH77B,Condo,3 beds,4.5 baths,"3,173 ft??"
+379,listing_1374820,"$750,000",106 Central Park South #6C,Condo,,1 bath,500 ft??
+380,listing_1374819,"$3,650,000",404 East 76th Street #16AD,Condo,4 beds,3.5 baths,"2,475 ft??"
+381,listing_1374818,"$888,000",20 Pine Street #1417,Condo,,1 bath,888 ft??
+382,listing_1374814,"$1,160,000",450 West 17th Street #1606,Condo,,1 bath,531 ft??
+383,listing_1374813,"$3,750,000",27 West 67th Street #1FE,Co-op,3 beds,2.5 baths,
+384,listing_1374811,"$1,515,000",514 West 110 #10A,Condo,2 beds,2 baths,"1,250 ft??"
+385,listing_1374810,"$3,000,000",322 W 57th Street #18NP,Condo,3 beds,2 baths,
+386,listing_1374809,"$6,400,000",1021 Park Avenue #3C,Co-op,4 beds,5 baths,
+387,listing_1374805,"$4,975,000",146 Chambers Street #PH,Condo,3 beds,2.5 baths,"1,926 ft??"
+388,listing_1374799,"$1,595,000",460 West 42nd Street #52E,Condo,,1 bath,568 ft??
+389,listing_1374798,"$3,280,000",460 West 42nd Street #52K,Condo,2 beds,2.5 baths,"1,266 ft??"
+390,listing_1376491_featured,"$1,625,000",180 West 58th Street #5C,Co-op,2 beds,1.5 baths,"1,100 ft??"
+391,listing_1364698_featured,"$4,995,000",100 Barclay Street #11Q,Condo,3 beds,3.5 baths,"2,063 ft??"
+392,listing_1374797,"$2,500,000",340 East 64th Street #19L,Condo,2 beds,2.5 baths,
+393,listing_1374795,"$5,915,000",460 West 42nd Street #PH4C,Condo,4 beds,3 baths,"2,135 ft??"
+394,listing_1374796,"$1,125,000",100 West 12th Street #4C,Co-op,1 bed,1 bath,
+395,listing_1374794,"$2,950,000",460 West 42nd Street #53B,Condo,2 beds,2 baths,"1,199 ft??"
+396,listing_1374793,"$3,790,000",460 West 42nd Street #53C,Condo,2 beds,2.5 baths,"1,362 ft??"
+397,listing_1374792,"$4,682,000",460 West 42nd Street #52B,Condo,3 beds,3 baths,"1,824 ft??"
+398,listing_1374791,"$1,710,000",460 West 42nd Street #52L,Condo,1 bed,1 bath,701 ft??
+399,listing_1374789,"$2,105,000",460 West 42nd Street #52M,Condo,1 bed,1.5 baths,845 ft??
+400,listing_1374788,"$4,975,000",520 West 28th Street #8,Condo,2 beds,2.5 baths,"1,691 ft??"
+401,listing_1374781,"$815,000",301 E 78th Street #2D,Co-op,1 bed,1 bath,
+402,listing_1374777,"$2,465,000",15 Broad Street #2520,Condo,3 beds,2 baths,"1,777 ft??"
+403,listing_1365765_featured,"$2,750,000",322 West 72nd Street #11B,Co-op,3 beds,3 baths,
+404,listing_1377060_featured,"$2,650,000",111 Central Park North 6C #6C,Condo,2 beds,2.5 baths,"1,422 ft??"
+405,listing_1374773,"$1,795,000",2280 Frederick Douglass #9B,Condo,3 beds,2.5 baths,"1,404 ft??"
+406,listing_1374771,"$575,000",500 East 83rd Street #3M,Co-op,,1 bath,
+407,listing_1374770,"$1,699,000",525 East 80th Street #5BB,Condo,3 beds,2 baths,"1,450 ft??"
+408,listing_1374768,"$2,995,000",300 Central Park West #4C,Co-op,2 beds,3 baths,
+409,listing_1374766,"$10,900,000",1 CPS #1301,Condo,3 beds,3.5 baths,"2,656 ft??"
+410,listing_1374763,"$535,000",303 East 57th Street #19F,Co-op,2 beds,1.5 baths,"1,100 ft??"
+411,listing_1374754,"$899,000",310 East 46th Street #12G,Condop,1 bed,1 bath,
+412,listing_1374752,"$799,000",100 Beekman Street #27H,Co-op,1 bed,1 bath,
+413,listing_1374729,"$1,498,000",16 West 19th Street #6E,Condo,1 bed,1 bath,904 ft??
+414,listing_1374722,"$1,700,000",261 West 131st Street ,Multi-family,8 beds,4 baths,"2,499 ft??"
+415,listing_1374716,"$750,000",315 East 12th Street #24,Co-op,2 beds,1 bath,
+416,listing_1350028_featured,"$9,995,000",443 Greenwich Street #3G,Condo,3 beds,3.5 baths,"3,022 ft??"
+417,listing_1362118_featured,"$1,500,000",535 East 86th Street #7E,Co-op,2 beds,2 baths,
+418,listing_1374713,"$7,000,000",230 Central Park West #PH16K,Co-op,3 beds,3 baths,
+419,listing_1374710,"$799,000",16 West 16th Street #10GS,Co-op,,1 bath,
+420,listing_1374708,"$615,000",250 East 54th Street #16B,Condo,,1 bath,400 ft??
+421,listing_1374704,"$750,000",101 Thompson Street #37,Co-op,1 bed,1 bath,
+422,listing_1374692,"$1,350,000",80 Riverside Boulevard #11D,Condo,1 bed,1 bath,717 ft??
+423,listing_1374686,"$2,995,000",860 Fifth Avenue #8C,Co-op,2 beds,2.5 baths,
+424,listing_1374683,"$17,250,000",184 East 64th Street ,Building,11 beds,12+ baths,"10,560 ft??"
+425,listing_1374674,"$4,250,000",845 United Nations Plaza #17B,Condo,2 beds,2.5 baths,"1,700 ft??"
+426,listing_1374672,"$745,000",315 West 70th Street #16L,Co-op,1 bed,1 bath,950 ft??
+427,listing_1374664,"$429,000",529 East 88th Street #4D,Co-op,1 bed,1 bath,575 ft??
+428,listing_1374660,"$2,695,000",386 Columbus Avenue #7A,Condo,2 beds,2 baths,"1,304 ft??"
+429,listing_1376344_featured,"$3,000,000",151 West 21st Street #1B,Condo,2 beds,2 baths,"1,225 ft??"
+430,listing_1356606_featured,"$2,650,000",91 Leonard Street #5A,Condo,2 beds,2.5 baths,"1,483 ft??"
+431,listing_1374659,"$2,088,800",120 Riverside Boulevard #9L,Condo,2 beds,2 baths,"1,300 ft??"
+432,listing_1374655,"$1,275,000",77 Park Avenue #6H,Condo,2 beds,1.5 baths,850 ft??
+433,listing_1374654,"$7,295,000",49 Chambers Street #12AB,Condo,4 beds,4 baths,"3,574 ft??"
+434,listing_1374653,"$550,000",440 East 62nd Street #10G,Co-op,1 bed,1 bath,850 ft??
+435,listing_1374652,"$3,880,000",502 Park Avenue #8G,Condo,2 beds,2 baths,"1,572 ft??"
+436,listing_1374647,"$659,000",300 East 40th Street #23L,Condop,,1 bath,
+437,listing_1374645,"$4,395,000",30 Warren Street #6C,Condo,3 beds,3.5 baths,"1,915 ft??"
+438,listing_1374646,"$5,600,000",30 Warren Street #7B,Condo,3 beds,3.5 baths,"2,209 ft??"
+439,listing_1374644,"$3,995,000",300 Central Park West #10A,Co-op,2 beds,2.5 baths,
+440,listing_1374643,"$2,665,000",30 Warren Street #2B,Condo,2 beds,2.5 baths,"1,265 ft??"
+441,listing_1374642,"$699,000",4260 Broadway #600,Condo,2 beds,1 bath,
+442,listing_1171696_featured,"$5,985,000",152 Elizabeth Street #2E,Condo,2 beds,2.5 baths,"2,015 ft??"
+443,listing_1345476_featured,"$699,000",2025 Broadway #24A,Co-op,1 bed,1 bath,735 ft??
+444,listing_1378213,"$5,495,000",200 East 66th Street #E1104,Condo,3 beds,3 baths,"2,588 ft??"
+445,listing_1378210,"$709,000",123 Washington Street #30C,Condo,,1 bath,394 ft??
+446,listing_1378207,"$899,000",335 East 90th Street #1R,Co-op,1 bed,1.5 baths,
+447,listing_1378206,"$790,000",500 West End Avenue #4A,Condo,1 bed,1 bath,715 ft??
+448,listing_1378201,"$1,425,000",23 West 116th Street #8B,Condo,2 beds,2 baths,"1,107 ft??"
+449,listing_1378202,"$1,342,500",875 West 181st Street #RSD,Co-op,2 beds,2 baths,"1,500 ft??"
+450,listing_1378199,"$439,000",4 Lexington Avenue #7L,Co-op,,1 bath,400 ft??
+451,listing_1378197,"$1,370,000",200 East 32nd Street #9E,Condo,1 bed,2 baths,988 ft??
+452,listing_1378196,"$5,950,000",168 East 93rd Street ,Townhouse,4 beds,3.5 baths,"3,628 ft??"
+453,listing_1378191,"$1,350,000",225 East 57th Street #18F,Co-op,2 beds,2 baths,"1,250 ft??"
+454,listing_1378190,"$2,550,000",305 East 85th Street #6B,Condo,2 beds,2 baths,"1,295 ft??"
+455,listing_1362664_featured,"$7,350,000",2 Park Place #33B,Condo,2 beds,2.5 baths,"2,548 ft??"
+456,listing_1365262_featured,"$2,150,000",1095 Park Avenue #14A,Co-op,2 beds,2 baths,"1,564 ft??"
+457,listing_1378183,"$2,599,000",247 W 46th Street #4203,Condo,2 beds,2.5 baths,"1,308 ft??"
+458,listing_1378182,"$445,000",225 Bennett Avenue #2D,Co-op,1 bed,1 bath,725 ft??
+459,listing_1378181,"$835,000",10 Park Avenue #18D,Co-op,1 bed,1 bath,
+460,listing_1378180,"$3,600,000",471 West 140th Street ,Townhouse,8 beds,7 baths,"5,184 ft??"
+461,listing_1378179,"$1,700,000",200 East 61st Street #23B,Condo,1 bed,2 baths,
+462,listing_1378175,"$14,500,000",80 Columbus Circle #72,Condo,3 beds,3.5 baths,"2,413 ft??"
+463,listing_1378174,"$950,000",135 East 54th Street #16F,Condo,1 bed,1 bath,500 ft??
+464,listing_1378166,"$425,000",140 West 69th Street #75A,Co-op,,1 bath,
+465,listing_1378163,"$499,700",513 West 135th Street #5A,Co-op,3 beds,1 bath,
+466,listing_1378159,"$1,100,000",170 East 78th Street #10B,Co-op,1 bed,1 bath,970 ft??
+467,listing_1378160,"$2,700,000",222 Riverside Drive #4A,Condo,2 beds,3 baths,"1,664 ft??"
+468,listing_1374064_featured,"$5,595,000",22 Riverside Drive #12-13,Condo,4 beds,3.5 baths,"2,992 ft??"
+469,listing_1333046_featured,"$2,480,000",799 Park Avenue #3D,Co-op,2 beds,2 baths,
+470,listing_1378146,"$5,400,000",458 West 50th Street ,Townhouse,11 beds,6 baths,"1,000 ft??"
+471,listing_1378145,"$1,698,000",99 John Street #1902,Condo,2 beds,2 baths,"1,153 ft??"
+472,listing_1377762,"$3,300,000",322 West 57th Street #34S3,Condo,3 beds,2 baths,"1,600 ft??"
+473,listing_1378143,"$1,174,000",100 W 12th Street #3A/3B,Co-op,2 beds,2 baths,
+474,listing_1378141,"$525,000",40 Tiemann Place #3A,Co-op,2 beds,1 bath,
+475,listing_1378131,"$7,950,000",111 Murray Street #35WEST,Condo,3 beds,3.5 baths,"2,280 ft??"
+476,listing_1378116,"$1,200,000",225 East 36th Street #10DE,Co-op,2 beds,2 baths,
+477,listing_1378109,"$899,000",900 West 190th #3N,Co-op,2 beds,1.5 baths,
+478,listing_1378102,"$2,750,000",34 East 30th Street #4,Co-op,3 beds,2 baths,
+479,listing_1378094,"$1,950,000",334 West 86th Street #15B,Co-op,2 beds,1.5 baths,
+480,listing_1378098,"$649,000",295 Greenwich Street #8J,Condo,,1 bath,432 ft??
+481,listing_1362118_featured,"$1,500,000",535 East 86th Street #7E,Co-op,2 beds,2 baths,
+482,listing_1373590_featured,"$3,395,000",150 Central Park South #1606,Co-op,2 beds,2.5 baths,"1,858 ft??"
+483,listing_1378096,"$389,000",1793 Riverside Drive #6J,Co-op,1 bed,1 bath,
+484,listing_1378087,"$1,650,000",5 Beekman Street #18C,Condo,1 bed,1 bath,703 ft??
+485,listing_1378086,"$899,000",416 East 117th #3A,Condo,2 beds,2 baths,"1,227 ft??"
+486,listing_1378082,"$585,000",415 West 57th Street #3C,Co-op,1 bed,1 bath,
+487,listing_1378070,"$2,700,000",548 W. 165th Street ,Multi-family,7 beds,4 baths,"1,632 ft??"
+488,listing_1378064,"$22,800,000",27 East 79th Street #PH,Condo,5 beds,5.5 baths,"4,346 ft??"
+489,listing_1378057,"$6,995,000",63 Greene Street #PHC,Condo,2 beds,2 baths,"2,180 ft??"
+490,listing_1378049,"$4,430,000",515 East 72nd Street #3K,Condo,4 beds,5 baths,"2,800 ft??"
+491,listing_1378034,"$2,550,000",2 River Terrace #9M,Condo,3 beds,3 baths,"1,449 ft??"
+492,listing_1378031,"$3,990,000",718 Broadway #8AB,Co-op,4 beds,3.5 baths,"2,860 ft??"
+493,listing_1378030,"$2,895,000",1150 Park Avenue #11A,Co-op,2 beds,2.5 baths,"1,750 ft??"
+0,listing_1347246_featured,"$1,600,000",5 East 44th Street #18,Condo,2 beds,2 baths,"1,277 ft?"
+1,listing_1295491_featured,"$1,985,000",200 East 62nd Street #17C,Condo,1 bed,1.5 baths,"1,145 ft?"
+2,listing_1378789,"$3,375,000",231 West 26th Street #2,Condo,3 beds,2.5 baths,"1,867 ft?"
+3,listing_1378787,"$800,000",250 West 15th Street #5I,Co-op,1 bed,1 bath,700 ft?
+4,listing_1378786,"$2,995,000",234 East 23rd Street #14C,Condo,3 beds,2.5 baths,"1,597 ft?"
+5,listing_1378784,"$1,950,000",895 Park Avenue #1A,Co-op,,2 baths,"1,400 ft?"
+6,listing_1378782,"$1,500,000",895 Park Avenue #1B,Co-op,3 beds,1 bath,
+7,listing_1378781,"$1,499,000",165 West 66th Street #7A,Co-op,2 beds,2 baths,
+8,listing_1378778,"$1,275,000",35 Park Avenue #18B,Co-op,2 beds,2 baths,"1,367 ft?"
+9,listing_1378777,"$675,000",310 East 46th Street #14D,Condop,1 bed,1 bath,
+10,listing_1378773,"$648,000",350 West 50th Street #2PP,Condo,,1 bath,407 ft?
+11,listing_1378764,"$3,955,000",10 Riverside Boulevard #28D,Condo,2 beds,2.5 baths,"1,689 ft?"
+12,listing_1378763,"$705,000",100 La Salle Street #5A,Co-op,2 beds,1 bath,
+13,listing_1354607_featured,"$3,445,000",2 River Terrace #6L,Condo,3 beds,4 baths,"2,095 ft?"
+14,listing_1349711_featured,"$3,295,000",345 East 50th Street #PHB,Condo,2 beds,2.5 baths,"1,597 ft?"
+15,listing_1378762,"$6,405,000",10 Riverside Boulevard #27B,Condo,3 beds,3.5 baths,"2,398 ft?"
+16,listing_1378761,"$6,385,000",90 Lexington Avenue #PHB,Condo,3 beds,3.5 baths,"2,027 ft?"
+17,listing_1378760,"$1,675,990",130 William Street #42C,Condo,1 bed,1 bath,802 ft?
+18,listing_1378755,"$2,100,000",300 East 54th Street #2L2K,Co-op,3 beds,3 baths,
+19,listing_1378744,"$550,000",7 East 14th Street #1525,Co-op,,1 bath,
+20,listing_1378728,"$3,400,000",200 Riverside Boulevard #6AB,Condo,4 beds,3+ baths,"2,370 ft?"
+21,listing_1378717,"$795,000",530  Grand Street #F11E,Co-op,2 beds,1 bath,
+22,listing_1378714,"$289,000",62 Park Terrace West #15,Co-op,,1 bath,600 ft?
+23,listing_1378713,"$1,949,000",301 East 52nd Street #2/1A,Co-op,3 beds,2.5 baths,"1,816 ft?"
+24,listing_1378707,"$8,250,000",280 West 25th Street #1,Townhouse,5 beds,2 baths,"4,068 ft?"
+25,listing_1378705,"$398,000",242 East 38th Street #5F,Co-op,,1 bath,
+26,listing_1376934_featured,"$4,995,000",530 East 76th Street 36/37CD,Condo,3 beds,2+ baths,"3,000 ft?"
+27,listing_1350544_featured,"$1,350,000",200 West 108th Street #15A,Co-op,2 beds,2 baths,"1,200 ft?"
+28,listing_1378703,"$1,495,000",20 Sutton Place South #18C,Co-op,3 beds,3 baths,"1,800 ft?"
+29,listing_1378701,"$699,000",675 West End Avenue #4C,Co-op,1 bed,1 bath,
+30,listing_1378695,"$1,600,000",2 Fifth Avenue #11R,Co-op,2 beds,1 bath,
+31,listing_1378692,"$1,350,000",160 Central Park South #2511,Condo,1 bed,1 bath,
+32,listing_1378690,"$825,000",251 East 32nd Street #9A,Co-op,2 beds,1 bath,
+33,listing_1378682,"$7,650,000",80 Riverside Boulevard #22/23D,Condo,6 beds,6+ baths,"3,700 ft?"
+34,listing_1378667,"$1,400,000",165 East 72nd Street #PHJ,Co-op,1 bed,1 bath,
+35,listing_1378661,"$759,900",401 East 86th Street #7H,Co-op,1 bed,1 bath,
+36,listing_1378658,"$4,995,000",277 Fifth Avenue #33A,Condo,3 beds,3 baths,"1,784 ft?"
+37,listing_1378650,"$315,000",321 East 43rd Street #715,Co-op,,1 bath,
+38,listing_1378637,"$26,495,000",19 East 71st Street #1,Townhouse,11 beds,11 baths,"10,145 ft?"
+0,listing_1377086_featured,"$3,790,000",101 Warren Street #11L,Condo,3 beds,3 baths,"2,332 ft?"
+1,listing_1362849_featured,"$649,000",333 East 75th Street #3F,Co-op,1 bed,1 bath,
+2,listing_1378798,"$339,000",581 Academy Street #1C,Condo,1 bed,1 bath,500 ft?
+3,listing_1378796,"$1,248,000",252 South Street #12K,Condo,1 bed,1 bath,695 ft?
+4,listing_1378797,"$1,399,000",252 South Street #35F,Condo,1 bed,1 bath,722 ft?
+5,listing_1378795,"$1,425,000",252 South Street #10B,Condo,1 bed,1 bath,696 ft?
+6,listing_1378794,"$1,711,000",252 South Street #64L,Condo,1 bed,1 bath,709 ft?
+7,listing_1378793,"$1,576,000",252 South Street #59H,Condo,1 bed,1 bath,679 ft?
+8,listing_1378792,"$1,640,000",252 South Street #40N,Condo,1 bed,1 bath,723 ft?
+9,listing_1378791,"$1,209,000",252 South Street #11F,Condo,1 bed,1 bath,695 ft?
+10,listing_1378789,"$3,375,000",231 West 26th Street #2,Condo,3 beds,2.5 baths,"1,867 ft?"
+11,listing_1378787,"$800,000",250 West 15th Street #5I,Co-op,1 bed,1 bath,700 ft?
+12,listing_1378786,"$2,995,000",234 East 23rd Street #14C,Condo,3 beds,2.5 baths,"1,597 ft?"
+13,listing_1343651_featured,"$2,995,000",112 East 19th Street #5F,Co-op,2 beds,2 baths,
+14,listing_1378368_featured,"$10,995,000",151 East 78th Street #4,Condo,5 beds,5 baths,"3,966 ft?"
+15,listing_1378784,"$1,950,000",895 Park Avenue #1A,Co-op,,2 baths,"1,400 ft?"
+16,listing_1378782,"$1,500,000",895 Park Avenue #1B,Co-op,3 beds,1 bath,
+17,listing_1378781,"$1,499,000",165 West 66th Street #7A,Co-op,2 beds,2 baths,
+18,listing_1378778,"$1,275,000",35 Park Avenue #18B,Co-op,2 beds,2 baths,"1,367 ft?"
+19,listing_1378777,"$675,000",310 East 46th Street #14D,Condop,1 bed,1 bath,
+20,listing_1378773,"$648,000",350 West 50th Street #2PP,Condo,,1 bath,407 ft?
+21,listing_1378764,"$3,955,000",10 Riverside Boulevard #28D,Condo,2 beds,2.5 baths,"1,689 ft?"
+22,listing_1378763,"$705,000",100 La Salle Street #5A,Co-op,2 beds,1 bath,
+23,listing_1378762,"$6,405,000",10 Riverside Boulevard #27B,Condo,3 beds,3.5 baths,"2,398 ft?"
+24,listing_1378761,"$6,385,000",90 Lexington Avenue #PHB,Condo,3 beds,3.5 baths,"2,027 ft?"
+25,listing_1378760,"$1,675,990",130 William Street #42C,Condo,1 bed,1 bath,802 ft?
+26,listing_1363009_featured,"$2,850,000",76 Eleventh Avenue #9D,Condo,1 bed,1.5 baths,959 ft?
+27,listing_1364547_featured,"$4,495,000",5 Franklin Place #10A,Condo,3 beds,3.5 baths,"1,831 ft?"
+28,listing_1378755,"$2,100,000",300 East 54th Street #2L2K,Co-op,3 beds,3 baths,
+29,listing_1378744,"$550,000",7 East 14th Street #1525,Co-op,,1 bath,
+30,listing_1378728,"$3,400,000",200 Riverside Boulevard #6AB,Condo,4 beds,3+ baths,"2,370 ft?"
+31,listing_1378717,"$795,000",530  Grand Street #F11E,Co-op,2 beds,1 bath,
+32,listing_1378714,"$289,000",62 Park Terrace West #15,Co-op,,1 bath,600 ft?
+33,listing_1378713,"$1,949,000",301 East 52nd Street #2/1A,Co-op,3 beds,2.5 baths,"1,816 ft?"
+34,listing_1378707,"$8,250,000",280 West 25th Street #1,Townhouse,5 beds,2 baths,"4,068 ft?"
+35,listing_1378705,"$398,000",242 East 38th Street #5F,Co-op,,1 bath,
+36,listing_1378703,"$1,495,000",20 Sutton Place South #18C,Co-op,3 beds,3 baths,"1,800 ft?"
+37,listing_1378701,"$699,000",675 West End Avenue #4C,Co-op,1 bed,1 bath,
+38,listing_1378695,"$1,600,000",2 Fifth Avenue #11R,Co-op,2 beds,1 bath,
+0,listing_1330089_featured,"$3,275,000",30 Warren Street #3C,Condo,2 beds,2.5 baths,"1,665 ft?"
+1,listing_1373373_featured,"$1,499,000",304 W 115th Street #3A,Condo,3 beds,2 baths,"1,375 ft?"
+2,listing_1378707,"$8,250,000",280 West 25th Street #1,Townhouse,5 beds,2 baths,"4,068 ft?"
+3,listing_1378705,"$398,000",242 East 38th Street #5F,Co-op,,1 bath,
+4,listing_1378703,"$1,495,000",20 Sutton Place South #18C,Co-op,3 beds,3 baths,"1,800 ft?"
+5,listing_1378701,"$699,000",675 West End Avenue #4C,Co-op,1 bed,1 bath,
+6,listing_1378695,"$1,600,000",2 Fifth Avenue #11R,Co-op,2 beds,1 bath,
+7,listing_1378692,"$1,350,000",160 Central Park South #2511,Condo,1 bed,1 bath,
+8,listing_1378690,"$825,000",251 East 32nd Street #9A,Co-op,2 beds,1 bath,
+9,listing_1378682,"$7,650,000",80 Riverside Boulevard #22/23D,Condo,6 beds,6+ baths,"3,700 ft?"
+10,listing_1378667,"$1,400,000",165 East 72nd Street #PHJ,Co-op,1 bed,1 bath,
+11,listing_1378661,"$759,900",401 East 86th Street #7H,Co-op,1 bed,1 bath,
+12,listing_1378658,"$4,995,000",277 Fifth Avenue #33A,Condo,3 beds,3 baths,"1,784 ft?"
+13,listing_1361404_featured,"$3,998,000",416 Washington Street #2I,Condo,3 beds,3 baths,"1,912 ft?"
+14,listing_1365461_featured,"$1,795,000",224 West 18th Street #5B,Condo,2 beds,2 baths,"1,196 ft?"
+15,listing_1378650,"$315,000",321 East 43rd Street #715,Co-op,,1 bath,
+16,listing_1378637,"$26,495,000",19 East 71st Street #1,Townhouse,11 beds,11 baths,"10,145 ft?"
+17,listing_1378634,"$1,085,000",201 East 79th Street #7B,Co-op,1 bed,1.5 baths,"1,000 ft?"
+18,listing_1378633,"$4,775,000",81 Walker Street #2,Condo,3 beds,2.5 baths,
+19,listing_1378631,"$675,000",55 Wall Street #603,Condo,,1 bath,658 ft?
+20,listing_1378627,"$1,075,000",200 East 61st Street #20A,Condo,1 bed,1.5 baths,899 ft?
+21,listing_1378625,"$2,350,000",117 West 123rd Street #8B,Condo,3 beds,2 baths,"1,815 ft?"
+22,listing_1378618,"$999,999",60 East 9th Street #633,Co-op,1 bed,1 bath,
+23,listing_1378617,"$2,435,000",15 Broad Street #1414,Condo,1 bed,2 baths,"2,028 ft?"
+24,listing_1378615,"$1,575,000",200 Rector Place #31B,Condo,2 beds,2 baths,945 ft?
+25,listing_1378614,"$975,000",70 West 139th Street #7B,Condo,2 beds,2 baths,"1,005 ft?"
+26,listing_1377212_featured,"$2,450,000",110 Charlton Street #15C,Condo,2 beds,2 baths,"1,198 ft?"
+27,listing_1351989_featured,"$1,195,000",15 William Street #38G,Condo,1 bed,1 bath,800 ft?
+28,listing_1378607,"$9,425,000",505 West 19th Street #7AC,Condo,4 beds,4.5 baths,"3,841 ft?"
+29,listing_1378604,"$1,995,000",120 Riverside Boulevard #5L,Condo,2 beds,2 baths,"1,300 ft?"
+30,listing_1378603,"$865,000",200 East 89th Street #16F,Condo,1 bed,1 bath,639 ft?
+31,listing_1378602,"$780,000",175 West 13th Street #8G,Co-op,1 bed,1 bath,
+32,listing_1378600,"$4,550,000",200 East 62nd Street #29D,Condo,3 beds,3.5 baths,"2,142 ft?"
+33,listing_1378598,"$900,000",45 West 131st Street #1,Condo,3 beds,1.5 baths,"1,285 ft?"
+34,listing_1378592,"$1,336,000",404 Park Avenue South #6B,Condo,1 bed,1 bath,608 ft?
+35,listing_1378589,"$275,000",120 Bennett Avenue #1J,Co-op,,1 bath,
+36,listing_1378590,"$2,775,000",35 East 75th Street #10B,Co-op,2 beds,2 baths,
+37,listing_1378588,"$1,245,000",254 Park Avenue South #3H,Condo,,1 bath,716 ft?
+38,listing_1378584,"$1,100,000",205 West End Avenue #15J,Co-op,2 beds,1 bath,"1,000 ft?"
+39,listing_1366162_featured,"$4,495,000",252 West 30th Street #PH15,Condo,3 beds,2 baths,"2,100 ft?"
+40,listing_1317955_featured,"$2,995,000",100 Barclay Street #13C,Condo,2 beds,2.5 baths,"1,443 ft?"
+41,listing_1378582,"$5,150,000",250 West 81st Street #5C,Condo,3 beds,3 baths,"1,985 ft?"
+42,listing_1378581,"$775,000",135 East 74th Street #10C,Co-op,1 bed,1 bath,
+43,listing_1378574,"$1,250,000",308 E 38th Street #3E,Condo,2 beds,2 baths,"1,045 ft?"
+44,listing_1378572,"$7,995,000",426 West 22nd Street ,Multi-family,8 beds,5 baths,"4,090 ft?"
+45,listing_1378571,"$1,295,000",395 Riverside Drive #9F,Co-op,2 beds,1 bath,
+46,listing_1378569,"$2,050,000",212 East 57th Street #9A,Condo,2 beds,2.5 baths,"1,267 ft?"
+47,listing_1378568,"$1,189,000",454 West 54th Street #5K,Condo,1 bed,1.5 baths,870 ft?
+48,listing_1378567,"$1,995,000",385 First Avenue #11E,Condo,2 beds,2 baths,"1,235 ft?"
+49,listing_1378563,"$1,500,000",60 Riverside Boulevard #1110,Condo,1 bed,1 bath,732 ft?
+50,listing_1378551,"$925,000",1 Central Park West #316,Condo,1 bed,1 bath,709 ft?
+51,listing_1378547,"$1,100,000",123 Washington Street #42D,Condo,1 bed,1 bath,732 ft?
+0,listing_1378500_featured,"$899,000",334 West 87th Street #1A,Co-op,2 beds,1 bath,
+1,listing_1377179_featured,"$875,000",184 Franklin Street #6,Co-op,1 bed,1 bath,
+2,listing_1378539,"$2,800,000",118 W 121st Street  10027 ,Building,11 beds,1 bath,
+3,listing_1378538,"$1,790,000",425 East 13th Street #5C,Condo,2 beds,2 baths,
+4,listing_1378536,"$795,000",333 East 34th Street #12H,Condo,1 bed,1 bath,725 ft?
+5,listing_1378525,"$1,190,700",175 West 95th Street #15D,Condo,1 bed,1 bath,708 ft?
+6,listing_1378521,"$940,000",45 Sutton Place South #17G,Co-op,1 bed,1.5 baths,"1,100 ft?"
+7,listing_1378515,"$135,000",424 E 115th Street #4D,Co-op,1 bed,1 bath,650 ft?
+8,listing_1378510,"$799,000",161 East 91st Street #2A,Co-op,1 bed,1 bath,
+9,listing_1378509,"$125,000",424 E 115th Street #4A,Co-op,,1 bath,500 ft?
+10,listing_1378508,"$150,000",424 E 115th Street #1A,Co-op,1 bed,1 bath,700 ft?
+11,listing_1378506,"$8,995,000",14 Harrison Street #56,Co-op,3 beds,2.5 baths,"4,515 ft?"
+12,listing_1378505,"$6,695,000",510 East 80th Street #PH,Condo,4 beds,3.5 baths,"3,000 ft?"
+13,listing_1376919_featured,"$5,995,000",100 Barclay Street #23B,Condo,4 beds,4 baths,"2,870 ft?"
+14,listing_1364672_featured,"$750,000",345 East 80th Street #10H,Condo,1 bed,1 bath,627 ft?
+15,listing_1378500,"$899,000",334 West 87th Street #1A,Co-op,2 beds,1 bath,
+16,listing_1378499,"$1,349,000",140 West End Avenue #8H,Co-op,2 beds,2 baths,
+17,listing_1378496,"$2,280,990",130 William Street #32C,Condo,2 beds,2 baths,"1,060 ft?"
+18,listing_1378495,"$799,000",100 La Salle Street #15D,Co-op,2 beds,1 bath,
+19,listing_1378490,"$410,000",5 Tudor City Place #421,Co-op,,1 bath,
+20,listing_1378489,"$2,095,000",301 West 57th Street #18D,Condo,2 beds,2 baths,
+21,listing_1378485,"$1,025,000",635 West 42nd Street #19H,Condo,1 bed,1 bath,700 ft?
+22,listing_1378484,"$2,200,000",121 West 19th Street #8F,Condo,1 bed,1 bath,"1,317 ft?"
+23,listing_1378483,"$2,325,000",57 Reade Street #15A,Condo,2 beds,2 baths,"1,244 ft?"
+24,listing_1378481,"$2,650,000",180 East End Avenue #PHG,Co-op,3 beds,3 baths,
+25,listing_1378482,"$795,000",501 West 123rd Street #21G,Co-op,2 beds,1 bath,
+26,listing_1378425_featured,"$7,495,000",471 Washington Street #5,Condo,3 beds,2.5 baths,"3,581 ft?"
+27,listing_1365019_featured,"$6,450,000",2112 Broadway #6B,Condo,3 beds,3.5 baths,"3,005 ft?"
+28,listing_1378480,"$650,000",45 West 110th Street #2C,Co-op,3 beds,1 bath,
+29,listing_1378479,"$1,665,000",385 First Avenue #7B,Condo,2 beds,2 baths,"1,190 ft?"
+30,listing_1378476,"$330,000",45 Tudor City Place #2105,Co-op,,1 bath,
+31,listing_1378466,"$1,495,000",118 East 60th Street #24H,Co-op,2 beds,2 baths,"1,500 ft?"
+32,listing_1378463,"$1,795,000",125 East 12th Street #4C,Condo,2 beds,1 bath,
+33,listing_1378462,"$825,000",212 East Broadway #G1505,Co-op,2 beds,1 bath,
+34,listing_1378461,"$975,000",300 East 59th Street #3602,Co-op,1 bed,2 baths,
+35,listing_1378457,"$775,000",380 Rector Place #6E,Condo,,1 bath,661 ft?
+36,listing_1378452,"$3,600,000",172 Madison Avenue #24A,Condo,2 beds,2.5 baths,"1,458 ft?"
+37,listing_1378450,"$2,300,000",1 Central Park West #808,Condo,1 bed,1+ bath,"1,016 ft?"
+38,listing_1378448,"$1,795,000",25 Central Park West #7C,Condo,1 bed,1.5 baths,945 ft?
+39,listing_1304137_featured,"$6,995,000",11 Beach Street #3A,Condo,5 beds,4.5 baths,"3,844 ft?"
+40,listing_1376675_featured,"$1,350,000",1600 Broadway #PH6A,Condo,2 beds,1 bath,889 ft?
+41,listing_1378447,"$490,000",245 East 24th Street #2H,Co-op,1 bed,1 bath,
+42,listing_1378446,"$3,900,000",100 Barclay Street #12F,Condo,3 beds,3.5 baths,"2,028 ft?"
+43,listing_1378443,"$340,000",238 West 112th Street #2WW,Co-op,4 beds,1 bath,"1,100 ft?"
+44,listing_1378437,"$299,000",524 West 151st Street #3,Co-op,2 beds,1 bath,710 ft?
+45,listing_1378434,"$859,000",400 East 77th Street #17A,Co-op,2 beds,1 bath,950 ft?
+46,listing_1378430,"$1,750,000",532 West 111th Street #26,Co-op,3 beds,1.5 baths,
+47,listing_1378427,"$2,250,000",900 Park Avenue #18C,Condo,1 bed,1.5 baths,
+48,listing_1378428,"$879,000",1160 Third Avenue #16D,Co-op,1 bed,1 bath,
+49,listing_1378426,"$1,085,000",215 East 96th Street #25D,Condop,2 beds,2 baths,"1,033 ft?"
+50,listing_1378425,"$7,495,000",471 Washington Street #5,Condo,3 beds,2.5 baths,"3,581 ft?"
+51,listing_1378424,"$4,400,000",50 West Street #49B,Condo,2 beds,2.5 baths,"1,513 ft?"
+0,listing_1378310_featured,"$2,350,000",301 East 48th Street #6DE,Co-op,3 beds,3 baths,
+1,listing_1370201_featured,"$3,675,000",9 Murray Street #9NE,Condo,3 beds,2.5 baths,"2,478 ft??"
+2,listing_1366982,"$1,650,000",901 Lexington Avenue #9S,Co-op,2 beds,2.5 baths,
+3,listing_1366979,"$2,749,000",140 Riverside Drive #9A,Co-op,2 beds,2 baths,
+4,listing_1366975,"$1,650,000",4 West 16th Street #2B,Co-op,2 beds,1 bath,
+5,listing_1366959,"$689,000",225 East 74th Street #1B,Co-op,1 bed,1 bath,725 ft??
+6,listing_1366955,"$1,360,000",531 Main Street #502,Co-op,3 beds,2.5 baths,"1,777 ft??"
+7,listing_1366943,"$4,500,000",252 Seventh Avenue #16G,Condo,2 beds,2 baths,"1,605 ft??"
+8,listing_1366942,"$895,000",30 Beekman Place #1C,Co-op,1 bed,2 baths,
+9,listing_1366938,"$650,000",807 Riverside Drive #6A,Condo,2 beds,1 bath,818 ft??
+10,listing_1366936,"$14,995,000",551 West 21st Street #17B,Condo,3 beds,3.5 baths,"3,860 ft??"
+11,listing_1366935,"$595,000",360 East 72nd Street #B1211,Co-op,,1 bath,575 ft??
+12,listing_1366918,"$2,295,000",718 Broadway #8B,Co-op,2 beds,1.5 baths,"1,320 ft??"
+13,listing_1342553_featured,"$1,795,000",150 Rivington Street #5H,Condo,2 beds,2 baths,864 ft??
+14,listing_1365621_featured,"$2,050,000",200 East 59th Street #15B,Condo,1 bed,1.5 baths,979 ft??
+15,listing_1366915,"$5,200,000",1148 Fifth Avenue #14A,Co-op,3 beds,3 baths,
+16,listing_1366914,"$2,295,000",1150 Park Avenue #6F,Co-op,2 beds,2.5 baths,"1,700 ft??"
+17,listing_1366910,"$1,245,000",411 East 53rd Street #7K,Condo,2 beds,1.5 baths,975 ft??
+18,listing_1366898,"$1,150,000",1 Central Park West #914,Condo,1 bed,1 bath,717 ft??
+19,listing_1366892,"$3,795,000",320 East 72nd Street #8A,Co-op,4 beds,3.5 baths,"2,433 ft??"
+20,listing_1366888,"$1,350,000",250 East 53rd Street #806,Condo,1 bed,1.5 baths,890 ft??
+21,listing_1366886,"$5,850,000",1115 Fifth Avenue #7A,Co-op,3 beds,3 baths,"2,820 ft??"
+22,listing_1366887,"$499,000",115 Cabrini Boulevard #22B,Co-op,1 bed,1 bath,900 ft??
+23,listing_1366865,"$975,000",1485 Fifth Avenue #8H,Condo,1 bed,1 bath,884 ft??
+24,listing_1366863,"$689,000",70 West 139th Street #7I,Condo,1 bed,1 bath,669 ft??
+25,listing_1366861,"$1,095,000",500 West 43rd Street #18B,Condo,2 beds,2 baths,838 ft??
+26,listing_1366998_featured,"$1,425,000",570 Broome Street #11C,Condo,1 bed,1 bath,732 ft??
+27,listing_1316143_featured,"$1,150,000",120 West 58th Street #6D,Condo,2 beds,1 bath,906 ft??
+28,listing_1366857,"$1,395,000",300 East 74th Street #12A,Co-op,1 bed,2 baths,
+29,listing_1366856,"$3,250,000",135 West 4th Street #2W,Condo,2 beds,2 baths,"1,807 ft??"
+30,listing_1366854,"$3,295,000",1 Central Park West #33F,Condo,1 bed,2 baths,"1,291 ft??"
+31,listing_1366849,"$10,900,000",20 W 53 #36A,Condo,3 beds,3.5 baths,"2,525 ft??"
+32,listing_1366842,"$485,000",165 West End Avenue #7G,Co-op,,1 bath,
+33,listing_1366839,"$585,000",500 West 43rd Street #23D,Condo,,1 bath,390 ft??
+34,listing_1366831,"$6,995,000",290 West End Avenue #7CD,Co-op,5 beds,6 baths,"4,200 ft??"
+35,listing_1366830,"$4,500,000",141 Wooster Street #5CD,Co-op,3 beds,2 baths,"3,300 ft??"
+36,listing_1366826,"$8,250,000",25 Barrow Street ,House,4 beds,4.5 baths,"3,400 ft??"
+37,listing_1366815,"$1,795,000",107 West 25th Street #3B,Co-op,2 beds,2 baths,"1,200 ft??"
+38,listing_1366812,"$995,000",10 West 66th Street #14E,Co-op,1 bed,1 bath,
+39,listing_1366333_featured,"$3,499,999",111 Central Park North #9AA,Condo,3 beds,3 baths,"1,955 ft??"
+40,listing_1352769_featured,"$4,150,000",146 West 57th Street #76B,Condo,2 beds,2.5 baths,"1,467 ft??"
+41,listing_1366811,"$550,000",153 East 57th Street #19G,Co-op,1 bed,1 bath,
+42,listing_1366810,"$675,000",2109 Broadway #850,Condo,,1 bath,450 ft??
+43,listing_1366805,"$789,000",430 West 154th Street #3,Condo,2 beds,2 baths,"1,188 ft??"
+44,listing_1366803,"$310,000",45 Tudor City Place #2002,Co-op,,1 bath,
+45,listing_1366801,"$9,950,000",218 East 62nd Street ,Townhouse,4 beds,4 baths,"4,138 ft??"
+46,listing_1366794,"$2,750,000",225 Fifth Avenue #6A,Condo,2 beds,2 baths,"1,613 ft??"
+47,listing_1366790,"$1,199,000",635 West 42nd Street #17N,Condo,1 bed,1 bath,800 ft??
+48,listing_1366786,"$1,250,000",176 W 87th Street #5D,Co-op,2 beds,1 bath,
+49,listing_1366779,"$6,495,000",300 West End Avenue #4,Co-op,4 beds,4.5 baths,
+50,listing_1366778,"$2,500,000",300 East 59th Street #2801/2,Co-op,4 beds,2.5 baths,
+51,listing_1366775,"$3,450,000",10 West 66th Street #14EF,Co-op,3 beds,3 baths,"2,400 ft??"
+0,listing_1254776_featured,"$1,075,000",88 Greenwich Street #2010,Condo,,1 bath,820 ft??
+1,listing_1373266_featured,"$3,500,000",875 Fifth Avenue #11C,Co-op,2 beds,2.5 baths,
+2,listing_1367449,"$540,000",30 East 95th Street #6D,Co-op,1 bed,1 bath,
+3,listing_1367447,"$2,200,000",8 East 68th Street #1A,Co-op,,2 baths,
+4,listing_1367445,"$2,695,000",535 West 110th Street #5F,Co-op,4 beds,3+ baths,"2,750 ft??"
+5,listing_1367444,"$695,000",404 East 66th Street #7J,Condo,,1 bath,537 ft??
+6,listing_1367440,"$2,695,000",401 East 60th Street #37C,Condo,3 beds,3 baths,"1,959 ft??"
+7,listing_1367422,"$4,990,000",190 Riverside Drive #10C,Condo,3 beds,2 baths,"2,670 ft??"
+8,listing_1367420,"$8,750,000",1067 Fifth Avenue #2,Co-op,4 beds,4 baths,
+9,listing_1367416,"$2,430,000",2 River Terrace #4D,Condo,2 beds,2 baths,"1,427 ft??"
+10,listing_1367415,"$5,995,000",2 River Terrace #24A,Condo,4 beds,3.5 baths,"3,026 ft??"
+11,listing_1367410,"$1,822,000",161 East 90th Street #1C,Co-op,3 beds,2 baths,"1,500 ft??"
+12,listing_1367407,"$2,395,000",264 East Broadway C201/202/207,Co-op,4 beds,3.5 baths,
+13,listing_1361293_featured,"$2,995,000",115 Fourth Avenue #PH8C,Condo,2 beds,2 baths,"1,685 ft??"
+14,listing_1370164_featured,"$4,350,000",245 10th Avenue UNIT-4W,Condo,3 beds,3 baths,"2,349 ft??"
+15,listing_1367402,"$1,500,000",140 West 69th Street #67,Co-op,2 beds,2 baths,
+16,listing_1367403,"$2,190,000",685 First Avenue #32L,Condo,1 bed,1.5 baths,"1,042 ft??"
+17,listing_1367399,"$4,195,990",130 William Street #L57B,Condo,2 beds,2.5 baths,"1,509 ft??"
+18,listing_1367400,"$949,000",599 West End Avenue #7BC,Co-op,3 beds,1.5 baths,
+19,listing_1367377,"$1,945,000",112 West 18th Street #4B,Condo,2 beds,2 baths,"1,380 ft??"
+20,listing_1367376,"$750,000",230 E 15th Street #7M,Co-op,1 bed,1 bath,
+21,listing_1367373,"$5,275,000",100 Barclay Street #15B,Condo,3 beds,3.5 baths,"2,446 ft??"
+22,listing_1367370,"$3,495,000",455 Central Park West #22A,Condo,3 beds,3 baths,"2,083 ft??"
+23,listing_1367365,"$3,150,000",240 Park Avenue South #5A,Condo,2 beds,2 baths,
+24,listing_1367362,"$2,850,000",95 Greene Street #5E,Condo,1 bed,1.5 baths,"1,200 ft??"
+25,listing_1367361,"$999,000",257 West 117th Street #5H,Condo,1 bed,2 baths,"1,031 ft??"
+26,listing_1362127_featured,"$2,395,000",3 Hanover Square #20FG,Co-op,3 beds,3 baths,"2,100 ft??"
+27,listing_1313683_featured,"$22,500,000",157 West 57th Street #67B,Condo,3 beds,3.5 baths,"4,116 ft??"
+28,listing_1367357,"$750,000",126 West 73rd Street #4A,Co-op,1 bed,1 bath,600 ft??
+29,listing_1367347,"$23,000,000",157 West 57th Street #56A,Condo,3 beds,3.5 baths,"3,228 ft??"
+30,listing_1367345,"$1,750,000",343 East 74th Street #6JK,Condop,3 beds,2.5 baths,"1,473 ft??"
+31,listing_1367327,"$1,195,000",424 East 57th Street #6BF,Co-op,2 beds,2 baths,"1,100 ft??"
+32,listing_1367326,"$649,000",22 Grove Street #1E,Co-op,,1 bath,
+33,listing_1367325,"$345,678",310 W. 18 #1A,Co-op,,1 bath,
+34,listing_1367321,"$370,000",100-106 West 141st Street #58,Co-op,2 beds,1 bath,
+35,listing_1367316,"$2,400,000",201 East 62nd Street #PHD,Co-op,2 beds,3.5 baths,
+36,listing_1367310,"$2,595,000",135 West 17th Street #2B,Co-op,3 beds,2 baths,"2,500 ft??"
+37,listing_1367304,"$949,000",250 West 15th Street #5F,Co-op,1 bed,1 bath,
+38,listing_1367302,"$675,000",425 East 79th Street #H15,Co-op,1 bed,1 bath,
+39,listing_1356101_featured,"$475,000",411 East 57th Street #10F,Co-op,,1 bath,600 ft??
+40,listing_1330598_featured,"$499,000",401 East 65th Street #14H,Co-op,,1 bath,550 ft??
+41,listing_1367301,"$1,650,000",325 Fifth Avenue #9C,Condo,2 beds,2 baths,"1,282 ft??"
+42,listing_1367299,"$1,600,000",969 Park Avenue #10A,Co-op,2 beds,2 baths,
+43,listing_1367288,"$1,030,000",65 Cooper Square #3E,Condo,1 bed,1.5 baths,684 ft??
+44,listing_1367286,"$899,000",200 East 89th Street #25F,Condo,1 bed,1 bath,638 ft??
+45,listing_1367275,"$1,234,000",275 East 7th Street #3,Co-op,1 bed,1 bath,
+46,listing_1367273,"$425,000",1160 Third Avenue #3C,Co-op,,1 bath,400 ft??
+47,listing_1367272,"$425,000",1160 Third Avenue #6F,Co-op,,1 bath,
+48,listing_1367266,"$1,230,000",635 West 42nd Street #19F,Condo,1 bed,1 bath,758 ft??
+49,listing_1367265,"$1,750,000",20 East 68th Street #12D,Condop,1 bed,2 baths,"1,000 ft??"
+50,listing_1367259,"$1,049,000",555 W. 23 #S6D,Condo,1 bed,1 bath,755 ft??
+51,listing_1367257,"$1,095,000",41 W 72nd Street #7H,Condo,1 bed,1 bath,768 ft??
+0,listing_1363074_featured,"$4,850,000",196 Orchard Street #10A,Condo,3 beds,3 baths,"1,925 ft??"
+1,listing_1366683_featured,"$10,500,000",555 West End Avenue THE-LIBRARY,Condo,5 beds,5.5 baths,"3,463 ft??"
+2,listing_1367191,"$570,000",2 South End Avenue #8F,Condo,1 bed,1 bath,632 ft??
+3,listing_1367189,"$399,000",200 East 36th Street #3E,Co-op,,1 bath,535 ft??
+4,listing_1367187,"$799,000",350 East 82nd Street #3L,Condo,1 bed,1 bath,
+5,listing_1367186,"$2,195,000",130 Barrow Street #PH14,Condo,2 beds,2.5 baths,"1,084 ft??"
+6,listing_1367182,"$2,850,000",245 Seventh Avenue #2A,Condo,2 beds,1.5 baths,"1,800 ft??"
+7,listing_1367180,"$2,650,000",1136 Fifth Avenue #1D,Co-op,2 beds,2 baths,
+8,listing_1367171,"$875,000",250 West 94th Street #2J,Co-op,1 bed,1 bath,850 ft??
+9,listing_1367162,"$939,000",200 East 84th Street #2F,Co-op,2 beds,1 bath,
+10,listing_1367161,"$599,000",40 West 72nd Street #34,Co-op,1 bed,1 bath,
+11,listing_1367151,"$8,950,000",25 Central Park West 11/12JK,Condo,5 beds,4 baths,"3,004 ft??"
+12,listing_1367148,"$858,000",88 Greenwich Street #725,Condo,1 bed,1 bath,845 ft??
+13,listing_1337735_featured,"$4,900,000",655 Park Avenue #4D,Co-op,3 beds,2 baths,"2,350 ft??"
+14,listing_1353197_featured,"$2,199,000",300 East 59th Street #604/5,Co-op,3 beds,3 baths,"2,000 ft??"
+15,listing_1367140,"$455,000",203 East 89th Street #1D,Co-op,,1 bath,
+16,listing_1367134,"$949,000",176 Broadway #7D,Co-op,1 bed,1 bath,"1,100 ft??"
+17,listing_1367132,"$5,150,000",21 Astor Place #10D,Condo,3 beds,3 baths,"1,993 ft??"
+18,listing_1367130,"$580,000",340 East 93rd Street #3F,Co-op,1 bed,1 bath,700 ft??
+19,listing_1367126,"$1,125,000",2109 Broadway #1487,Condo,1 bed,1 bath,765 ft??
+20,listing_1367121,"$3,995,000",116 Central Park South #3CD,Condo,3 beds,3 baths,"2,000 ft??"
+21,listing_1367120,"$714,000",425 East 63rd Street #W5A,Condop,1 bed,1 bath,
+22,listing_1367117,"$995,000",20 West Street #19G,Condo,1 bed,1 bath,"1,018 ft??"
+23,listing_1367108,"$995,000",410 W 24th Street #18D,Co-op,1 bed,1 bath,
+24,listing_1367107,"$995,000",480 Park Avenue #11J,Co-op,1 bed,1 bath,
+25,listing_1367100,"$7,290,000",21 East 66th Street #2EW,Condo,4 beds,6 baths,"3,602 ft??"
+26,listing_1375766_featured,"$2,450,000",900 Park Avenue #11E,Condo,2 beds,2.5 baths,"1,288 ft??"
+27,listing_1376479_featured,"$1,495,000",39 East 29th Street #8C,Condo,1 bed,1 bath,785 ft??
+28,listing_1367098,"$4,395,000",721 Fifth Avenue #34G,Condo,2 beds,2.5 baths,"1,509 ft??"
+29,listing_1367089,"$2,125,000",305 West 16th Street #2H,Condop,2 beds,2 baths,978 ft??
+30,listing_1367087,"$3,200,000",875 Fifth Avenue #2D,Co-op,3 beds,3 baths,
+31,listing_1367086,"$3,295,000",475 West 22nd Street #1,Co-op,3 beds,2 baths,
+32,listing_1367085,"$1,800,000",635 West 42nd Street #28F,Condo,2 beds,2 baths,
+33,listing_1367083,"$899,000",225 Rector Place #4T,Condo,1 bed,1 bath,760 ft??
+34,listing_1367082,"$1,090,000",310 East 49th Street #7FG,Co-op,2 beds,2 baths,
+35,listing_1367070,"$400,000",524 West 151st Street #3,Co-op,2 beds,1 bath,
+36,listing_1367068,"$3,495,000",21 East 66th Street #3E,Condo,2 beds,3 baths,"1,700 ft??"
+37,listing_1367065,"$3,895,000",21 East 66th Street #2W,Condo,2 beds,3 baths,"1,903 ft??"
+38,listing_1367064,"$582,000",327 East 3rd Street #4B,Co-op,1 bed,1 bath,
+0,listing_1323126_featured,"$1,385,000",52 Convent Avenue #4C,Condo,3 beds,2 baths,
+1,listing_1373315_featured,"$2,350,000",555 West 59th Street #19F,Condo,2 beds,2 baths,"1,273 ft??"
+2,listing_1368183,"$5,150,000",1105 Park Avenue #2A,Co-op,4 beds,3 baths,
+3,listing_1368182,"$4,500,000",1175 Park Avenue #4B,Co-op,3 beds,3 baths,
+4,listing_1368179,"$2,750,000",48 West 86th Street #2,Co-op,2 beds,2.5 baths,
+5,listing_1368178,"$875,000",137 East 66th Street #8C,Co-op,2 beds,1 bath,
+6,listing_1368176,"$2,000,000",555 West 59th Street #21G,Condo,2 beds,2 baths,"1,116 ft??"
+7,listing_1368171,"$4,150,000",54 MacDougal Street MAISONETTE,Condo,1 bed,1+ bath,"2,431 ft??"
+8,listing_1368161,"$750,000",220 Riverside Boulevard #7W,Condo,,1 bath,549 ft??
+9,listing_1368159,"$3,095,000",59 John Street #PH10C,Condo,3 beds,3 baths,"2,279 ft??"
+10,listing_1368155,"$385,000",45 Park Terrace West #2H,Co-op,1 bed,1 bath,
+11,listing_1368153,"$935,000",348 West 38th Street #11E,Co-op,2 beds,1 bath,
+12,listing_1368147,"$685,000",606 West 113th Street #3A,Co-op,1 bed,1 bath,
+13,listing_1264284_featured,"$1,850,000",301 West 53rd Street #3E,Condo,2 beds,2 baths,"1,039 ft??"
+14,listing_1375276_featured,"$1,165,000",77 Park Avenue #7G,Condo,1 bed,1.5 baths,800 ft??
+15,listing_1368145,"$1,500,000",55 East 87th Street #1AK,Co-op,,1 bath,"1,600 ft??"
+16,listing_1368135,"$695,000",605 W 111th Street #64,Co-op,2 beds,1 bath,
+17,listing_1368131,"$725,000",170 Claremont Avenue #19,Co-op,2 beds,1 bath,
+18,listing_1368124,"$799,000",165 East 72nd Street #2G,Co-op,1 bed,1 bath,900 ft??
+19,listing_1368122,"$360,000",137-139 West 142nd Street #2E,Co-op,3 beds,1 bath,877 ft??
+20,listing_1368118,"$2,300,000",37 Murray Street #3B,Condo,,1 bath,"1,245 ft??"
+21,listing_1368117,"$1,050,000",71 West 83rd Street #5R,Co-op,1 bed,2 baths,
+22,listing_1368113,"$1,295,000",305 East 40th Street #10R,Co-op,2 beds,2 baths,
+23,listing_1368109,"$2,395,000",444 East 57th Street #9/D,Condo,3 beds,2 baths,"1,600 ft??"
+24,listing_1368105,"$929,000",320 West 76th Street #9D,Co-op,1 bed,1 bath,
+25,listing_1368104,"$689,000",205 East 10th Street #2D,Co-op,1 bed,1 bath,
+26,listing_1376031_featured,"$1,075,000",139 East 66th Street #1EAST,Co-op,2 beds,1 bath,
+27,listing_1360211_featured,"$3,995,000",1212 Fifth Avenue #4A,Condo,3 beds,3.5 baths,"2,389 ft??"
+28,listing_1368103,"$849,900",142 E 16th Street #18D,Co-op,1 bed,1 bath,850 ft??
+29,listing_1368102,"$949,000",309 West 104th Street #5A,Co-op,2 beds,1 bath,
+30,listing_1368101,"$799,000",300 E 40th Street #15P,Condop,1 bed,1 bath,
+31,listing_1368099,"$15,100,000",377 Rector Place #PHAB,Condo,7 beds,6.5 baths,"6,392 ft??"
+32,listing_1368093,"$5,950,000",137 Riverside Drive #3B,Co-op,5 beds,4 baths,"3,940 ft??"
+33,listing_1368090,"$7,450,000",377 Rector Place #PHB,Condo,4 beds,3.5 baths,"3,180 ft??"
+34,listing_1368085,"$7,650,000",377 Rector Place #PHA,Condo,3 beds,3 baths,"3,212 ft??"
+35,listing_1368084,"$995,000",301 West 53rd Street #20G,Condo,1 bed,1 bath,678 ft??
+36,listing_1368078,"$399,000",235 West 102nd Street #17W,Co-op,,1 bath,
+37,listing_1368076,"$8,250,000",57 Irving Place #4,Condo,3 beds,3.5 baths,"2,872 ft??"
+38,listing_1368074,"$1,945,000",250 West 27th Street #6B,Co-op,3 beds,2 baths,"1,516 ft??"
+0,listing_1363821_featured,"$925,000",500 West 43rd Street #19H,Condo,1 bed,1 bath,679 ft??
+1,listing_1344171_featured,"$8,700,000",165 Charles Street #11,Condo,3 beds,3 baths,"2,541 ft??"
+2,listing_1368001,"$2,050,000",101 West 87th Street #306,Condo,2 beds,2 baths,"1,003 ft??"
+3,listing_1367997,"$895,000",140 West End Avenue #18K,Co-op,1 bed,1 bath,
+4,listing_1367995,"$5,450,000",25 Central Park West #16M,Condo,3 beds,2.5 baths,"2,003 ft??"
+5,listing_1367991,"$2,595,000",155 West 70th Street #16D,Condo,2 beds,2.5 baths,"1,306 ft??"
+6,listing_1367983,"$8,975,000",1845 Adam Clayton Powell Jr Boulevard #PH,Condo,5 beds,6.5 baths,
+7,listing_1367979,"$2,750,000",35 Bethune Street MAISONETTE-D,Condo,4 beds,2.5 baths,
+8,listing_1367977,"$650,000",28 Perry Street #BE,Condo,1 bed,1 bath,
+9,listing_1367978,"$1,750,000",12 East 14th Street #PH5A,Co-op,1 bed,1 bath,
+10,listing_1367970,"$2,550,000",40 East 10th Street #PHE,Co-op,1 bed,1 bath,
+11,listing_1367967,"$2,299,000",236 West 132nd Street #1,Multi-family,4 beds,4.5 baths,
+12,listing_1367964,"$785,000",415 East 52nd Street #1CB,Co-op,2 beds,1 bath,"1,035 ft??"
+13,listing_1376339_featured,"$635,000",1 Wall Street Court #1407,Condo,,1 bath,418 ft??
+14,listing_1330115_featured,"$2,375,000",935 Park Avenue #9B,Co-op,2 beds,2 baths,
+15,listing_1367961,"$3,890,000",2109 Broadway #7144,Condo,3 beds,2.5 baths,"1,805 ft??"
+16,listing_1367959,"$2,000,000",45 East 25th Street #25B,Condo,2 beds,2 baths,"1,100 ft??"
+17,listing_1367958,"$1,799,000",45 West 67th Street #8C,Condo,2 beds,1.5 baths,"1,014 ft??"
+18,listing_1367955,"$11,500,000",232 West 15th Street ,Multi-family,6 beds,7 baths,"5,000 ft??"
+19,listing_1367954,"$3,000,000",200 West End Avenue #19A,Condo,2 beds,2.5 baths,"1,486 ft??"
+20,listing_1367953,"$4,250,000",530 East 86th #10A,Co-op,3 beds,2.5 baths,
+21,listing_1367948,"$1,160,000",145 East 48th Street #12D,Condo,1 bed,1 bath,750 ft??
+22,listing_1367934,"$850,000",225 E 57 UNIT-2A,Co-op,1 bed,1 bath,
+23,listing_1367930,"$2,500,000",40 East 61st Street #14B,Condo,2 beds,2 baths,"1,214 ft??"
+24,listing_1367929,"$1,335,000",200 West End Avenue #9B,Condo,1 bed,1 bath,788 ft??
+25,listing_1367927,"$5,350,000",200 East 62nd Street #27E,Condo,4 beds,4.5 baths,"2,536 ft??"
+26,listing_1378383_featured,"$3,495,000",150 W 56th #6101,Condo,2 beds,2 baths,"1,588 ft??"
+27,listing_1377207_featured,"$14,200,000",65 West 13th Street #6AB,Condo,5 beds,4.5 baths,"5,800 ft??"
+28,listing_1367925,"$1,500,000",91 Central Park West #2F,Co-op,2 beds,2 baths,
+29,listing_1367926,"$819,000",439 East 88th Street #5C,Co-op,2 beds,1 bath,
+30,listing_1367923,"$2,999,000",63 Greene Street #2E,Condo,2 beds,2 baths,"1,446 ft??"
+31,listing_1367914,"$825,000",250 Mercer Street #B1507,Co-op,,1 bath,
+32,listing_1367913,"$1,300,000",123 Washington Street #47A,Condo,1 bed,1 bath,802 ft??
+33,listing_1367911,"$489,999",150 East 83rd Street #4B,Co-op,1 bed,1 bath,
+34,listing_1367908,"$1,475,000",235 East 40th Street #15A,Condo,2 beds,2 baths,"1,094 ft??"
+35,listing_1367906,"$1,815,000",15 William Street #41I,Condo,2 beds,2 baths,"1,273 ft??"
+36,listing_1367905,"$2,600,000",799 Park Avenue #3A,Co-op,3 beds,3 baths,
+37,listing_1367904,"$2,150,000",790 Riverside Drive #11RS,Co-op,4 beds,2.5 baths,"2,000 ft??"
+38,listing_1367902,"$3,100,000",33 Riverside Drive #10C,Co-op,3 beds,2.5 baths,
+39,listing_1378019_featured,"$2,245,000",102 West 118th Street #GARDEN,Condo,3 beds,3.5 baths,"2,108 ft??"
+40,listing_1364824_featured,"$14,900,000",515 Park Avenue #12AB,Condo,6 beds,6.5 baths,"5,000 ft??"
+41,listing_1367901,"$619,000",350 West 50 #4ZL,Condo,,1 bath,422 ft??
+42,listing_1367890,"$635,000",425 Central Park West #5E,Condo,,1 bath,550 ft??
+43,listing_1367888,"$649,000",2136 Second Avenue #7A,Condo,2 beds,2 baths,
+44,listing_1367887,"$1,125,000",236 East 47th Street #11C,Condo,2 beds,2 baths,912 ft??
+45,listing_1367886,"$575,000",20 East 35th Street #7F,Co-op,1 bed,1 bath,
+46,listing_1367885,"$1,209,375",171 Henry Street #4D,Condo,1 bed,1.5 baths,"1,075 ft??"
+47,listing_1367883,"$975,025",171 Henry Street #2C,Condo,1 bed,1.5 baths,907 ft??
+48,listing_1367884,"$793,500",171 Henry Street #4A,Condo,,1 bath,690 ft??
+49,listing_1367882,"$855,000",171 Henry Street #2B,Condo,,1 bath,684 ft??
+50,listing_1367881,"$1,645,000",685 First Avenue #31C,Condo,1 bed,1 bath,760 ft??
+51,listing_1367879,"$4,750,000",117 East 72nd Street #4W,Co-op,2 beds,3 baths,
+0,listing_1366456_featured,"$524,999",5 Tudor City Place #704,Co-op,1 bed,1 bath,560 ft??
+1,listing_1318488_featured,"$20,000,000",160 Leroy Street NORTH12B,Condo,4 beds,4.5 baths,"4,557 ft??"
+2,listing_1367824,"$3,600,000",2 Sutton Place South #8DS,Co-op,4 beds,4 baths,
+3,listing_1367823,"$2,100,000",133 West 28th Street #7C,Co-op,2 beds,2 baths,
+4,listing_1367818,"$1,300,000",1 Irving Place #U16F,Condo,1 bed,1 bath,
+5,listing_1367814,"$5,995,000",580 West End Avenue #4,Co-op,4 beds,4 baths,"3,000 ft??"
+6,listing_1367813,"$1,995,000",102 West 85th Street #9CD,Co-op,3 beds,2 baths,
+7,listing_1367811,"$765,000",2134 Second Avenue #6B,Condo,2 beds,2 baths,"1,027 ft??"
+8,listing_1367803,"$1,899,000",175 West 12th Street #19B,Condo,1 bed,1 bath,989 ft??
+9,listing_1367799,"$5,495,000",2211 Broadway #4G,Condo,3 beds,2.5 baths,"1,890 ft??"
+10,listing_1367786,"$860,000",330 West 17th Street #1W,Co-op,1 bed,1 bath,
+11,listing_1367785,"$3,900,000",205 West 76th Street #7F,Condo,3 beds,3 baths,"1,570 ft??"
+12,listing_1367775,"$1,375,000",929 Park Avenue #10B,Co-op,1 bed,1 bath,"1,000 ft??"
+13,listing_1376684_featured,"$3,800,000",49 Chambers Street #7D,Condo,2 beds,2.5 baths,"2,256 ft??"
+14,listing_1370394_featured,"$1,250,000",55 East 65th Street #4A,Co-op,2 beds,1 bath,
+15,listing_1367774,"$2,800,000",250 Mercer Street #B1506,Co-op,2 beds,2 baths,
+16,listing_1367769,"$1,900,000",100 West 18th Street #5B,Condo,1 bed,1.5 baths,"1,058 ft??"
+17,listing_1367765,"$460,000",283 East 4th Street #1F,Co-op,1 bed,1 bath,
+18,listing_1367761,"$835,000",120 West 58th Street #7C,Condo,1 bed,1 bath,700 ft??
+19,listing_1367760,"$999,999",1270 Fifth Avenue #9L,Co-op,2 beds,1.5 baths,"1,000 ft??"
+20,listing_1367759,"$799,000",201 East 25th Street #10F,Co-op,1 bed,1 bath,
+21,listing_1367753,"$685,000",343 West 12th Street #1A,Co-op,,1 bath,
+22,listing_1367740,"$6,900,000",33 West 89th Street 33-WEST-89TH,Townhouse,10 beds,10 baths,
+23,listing_1367738,"$695,000",100 West 93rd Street #28D,Condo,,1 bath,493 ft??
+24,listing_1367735,"$350,000",352 West 48th Street #1FW,Co-op,1 bed,1 bath,
+25,listing_1367725,"$369,000",333 East 75th Street #5H,Co-op,,1 bath,
+26,listing_1346525_featured,"$4,395,000",975 Park Avenue #6B,Co-op,3 beds,3.5 baths,
+27,listing_1362093_featured,"$2,250,000",13 East 16th Street #8R,Condo,2 beds,2 baths,"1,318 ft??"
+28,listing_1367716,"$1,100,000",150 West 55th Street #7C,Co-op,2 beds,1.5 baths,"1,200 ft??"
+29,listing_1367712,"$2,995,000",29 West 19th Street #4,Condo,3 beds,3 baths,"1,816 ft??"
+30,listing_1367710,"$450,000",150 Central Park South #1207,Co-op,,1 bath,
+31,listing_1367705,"$5,585,000",180 East 88th Street #11B,Condo,3 beds,3.5 baths,"2,082 ft??"
+32,listing_1367703,"$425,000",102 West 80th Street #55,Co-op,,1 bath,
+33,listing_1367696,"$5,150,000",225 Fifth Avenue #9M,Condo,2 beds,2.5 baths,"1,591 ft??"
+34,listing_1367695,"$625,000",393 West 49th Street #4OO,Condo,,1 bath,402 ft??
+35,listing_1367686,"$1,125,000",255 Hudson Street #3F,Condo,1 bed,1 bath,776 ft??
+36,listing_1367679,"$4,250,000",125 East 74th Street #8/9A,Co-op,4 beds,3 baths,"2,300 ft??"
+37,listing_1367676,"$689,000",350 East 30th Street #5C,Condo,1 bed,1 bath,631 ft??
+38,listing_1367673,"$599,000",255 West End Avenue #8C,Co-op,1 bed,1 bath,
