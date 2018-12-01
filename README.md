@@ -13,13 +13,13 @@
 Our project was carried out in following steps.<br>
 
 * First part, we wrote a web crawler that searches the house prices on www.streeteasy.com in Manhanttan Area, New York. 
-The codes for this part are listed as `[crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py)` and `[spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb)`. <br>
+The codes for this part are listed as [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) and [spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb). <br>
 Because the website has the anti-crawl setting, which means we can only crawl nearly four pages' data with one cookie. If we want to get a large-scale data, we need to change the cookie each time we excute the code. <br>
-Therefore, We came up with two ideas to firgure out this problem, which are listed as `[crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py)` and `[spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb)`
+Therefore, We came up with two ideas to firgure out this problem, which are listed as [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) and [spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb)
 
-  * For the `[crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py)`, you have to change the cookie......(check out line 12 in the code) every time you excute the code, and you have to excute the code several times if you want to to get a large-scale data, and obviously you will get several csv files which contains the raw data. 
+  * For the [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py), you have to change the cookie......(check out line 12 in the code) every time you excute the code, and you have to excute the code several times if you want to to get a large-scale data, and obviously you will get several csv files which contains the raw data. 
 
-  * For the `[spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb)`,  , you can get all the raw data by excuting the code, and you will get one csv file which contains all the raw data. We suggest you to excute this code for your convenience.
+  * For the [spider.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/spider.ipynb),  , you can get all the raw data by excuting the code, and you will get one csv file which contains all the raw data. We suggest you to excute this code for your convenience.
 
 * Second part, we carried out analysis on the data we collected, based on the “K-means Clustering Algorithm". <br>
   * The codes for this part are listed as `CSV merge and process.ipynb` and `K-means.ipynb`. <br>
