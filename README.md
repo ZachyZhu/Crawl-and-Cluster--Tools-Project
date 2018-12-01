@@ -29,14 +29,23 @@ Our project was carried out in following parts.<br>
 
 * Second part, we carried out analysis on the data we collected, based on the “K-means Clustering Algorithm". <br>
   * The codes for this part are listed as [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) and [K-means.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/kmeans.ipynb). <br>
-  * The [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) has two functions. Merging several csv.files into one single csv.file if you choose to use [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) to crawl the data, and cleaning the raw data we initially collected from the website.<br>
-  * The raw data are listed in the [datafile.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/datafile.csv), the data after being clearned are saved in the [processed_data.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/processed_data.csv). <br> We convert the price of the house into unit price, and only keep four categories of the data, which are "unit price", "address", "type", "area". 
-  * The [K-means.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/kmeans.ipynb) is used to 
+  * The [CSV merge and process.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/CSV%20merge%20and%20process.ipynb) has two functions. Merging several csv.files into one single csv.file if you choose to use [crawl.py](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/crawl.py) to crawl the data, and cleaning the raw data we initially collected from the website. Data cleaning includes following work:<br>
+    * Convert the price of the house into unit price, and only keep four categories of the data, which are "unit price", "address", "type", "area". 
+    * Find the house with the highest unit price, set this data to be our standard point - with the highest price and the excellent location. 
+    * Calculate the distance from other houses to the original point, based on the address. We googled out the following information to help us estimate the distance with two different addresses in Manhanttan: ["North-south is easy: about 20 blocks to a mile. The annual Fifth Avenue Mile, for example, is a race from 80th to 60th Street. The distance between avenues is more complicated. In general, one long block between the avenues equals three short blocks, but the distance varies, with some avenues as far apart as 920 feet."](https://www.nytimes.com/2006/09/17/nyregion/thecity/17fyi.html)
+  * The raw data are listed in the [datafile.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/datafile.csv), the data after being clearned are saved in the [processed_data.csv](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/processed_data.csv). <br>  
+  * The [K-means.ipynb](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/kmeans.ipynb) is used to divide these datasets into three kinds. See the following cluster result.
 
 * Data analysis Result<br>
 ![](https://github.com/ZachyZhu/Crawl-and-Cluster--Tools-Project/blob/master/visualized%20data.png)
 
 * Result Explanation <br>
+All the datas are differentiated into three types
+  * The first type are maked in `Red 0`. These datasets represents those houses which are very close to the standard point, but the price are much higher.
+  * The second type are marked in `Green 1`. These datasets represents those houses which prices are very close to the standard point, but the distance to our standard point are much too far.
+  * The third type are marked in `Brown 2`. These datasets represents those houses which prices are very close to the standard point, as well as the location.
+  * If you are considering about purchasing your own house in Manhanttan, it would be a better strategy to start your research among those houses in the `Brown 2` type.
+  
 
 
 #### Packages need to install
