@@ -9,8 +9,8 @@
 ### Group members: Zeqi Zhu(zz2568), Qi Li(ql2336), Jiani Lu(jl5240), Xiao Liang(xl2817)
 ### Enrolled in IEOR E4501 Section 001
 
-Description: Our project was carried out in following steps.
-
+#### Description
+Our project was carried out in following steps.<br>
 * First part, we wrote a web crawler that searches the house prices on www.streeteasy.com in Manhanttan Area, New York. 
 The codes for this part are listed as `crawl.py` and `spider.ipynb`. <br>
 Because the website has the anti-crawl setting, which means we can only crawl nearly four pages' data with one cookie. If we want to get a large-scale data, we need to change the cookie each time we excute the code. <br>
@@ -21,7 +21,21 @@ Therefore, We came up with two ideas to firgure out this problem, which are list
   * For the 'spider.ipynb',  , you can get all the raw data by excuting the code, and you will get one csv file which contains all the raw data. We suggest you to excute this code for your convenience.
 
 * Second part, we carried out analysis on the data we collected, based on the “K-means Clustering Algorithm". <br>
-The codes for this part are listed as `CSV merge and process.ipynb` and `K-means.ipynb`. <br>
-The `CSV merge and process.ipynb` is used to clean the raw data we initially collected from the website, the raw data are listed in the `datafile.csv`, the data after being clearned are saved in the `processed_data.csv`. <br>
-Then the `K-means.ipynb` is used to 
+  * The codes for this part are listed as `CSV merge and process.ipynb` and `K-means.ipynb`. <br>
+  * The `CSV merge and process.ipynb` has two functions. Merging several csv.files into one single csv.file and cleaning the raw data we initially collected from the website.<br>
+  * The raw data are listed in the `datafile.csv`, the data after being clearned are saved in the `processed_data.csv`. <br>
+  * The `K-means.ipynb` is used to 
 
+#### Packages need to install
+* For the crawl code, we need to install following packages:<br>
+  * `pandas`
+  * `requests`
+  * `time`
+  * `lxml`
+  * `bs4` 
+* For the Data Analysis code, we need to install the following packages:<br>
+  * `sklearn.cluster`
+  * `matplotlib.pyplot`
+
+#### Run instructions
+* You have to refresh the website and add the new cookie into the code. 
