@@ -5,10 +5,10 @@
 #What do I need to type to get your program to do its thing
 
 # Crawl-and-Cluster--Tools Project
-Our group name: Fantastic Four. Group members: Zeqi Zhu(zz2568), Qi Li(ql2336), Jiani Lu(jl5240), Xiao Liang(xl2817)
----
-Enrolled in IEOR E4501 Section 001
----
+### Our group name: Fantastic Four. 
+### Group members: Zeqi Zhu(zz2568), Qi Li(ql2336), Jiani Lu(jl5240), Xiao Liang(xl2817)
+### Enrolled in IEOR E4501 Section 001
+
 Description: Our project was carried out in following steps.
 
 * First part, we wrote a web crawler that searches the house prices on www.streeteasy.com in Manhanttan Area, New York. 
@@ -20,7 +20,7 @@ Therefore, We came up with two ideas to firgure out this problem, which are list
 
   * For the 'spider.ipynb',  , you can get all the raw data by excuting the code, and you will get one csv file which contains all the raw data. We suggest you to excute this code for your convenience.
 
-* Second step, we carried out analysis on the data we collected, based on the “K-means Clustering Algorithm". <br>
+* Second part, we carried out analysis on the data we collected, based on the “K-means Clustering Algorithm". <br>
 The codes for this part are listed as `CSV merge and process.ipynb` and `K-means.ipynb`. <br>
 The `CSV merge and process.ipynb` is used to clean the raw data we initially collected from the website, the raw data are listed in the `datafile.csv`, the data after being clearned are saved in the `processed_data.csv`. <br>
 Then the `K-means.ipynb` is used to 
