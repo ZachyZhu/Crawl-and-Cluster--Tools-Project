@@ -102,10 +102,9 @@ bed_list = []
 bath_list = []
 area_list = []
 
-for i in range(1,500): #ALERT!!! This represents we will scrawl page 12-16. Manually adjust it after changing the cookie
+for i in range(1,4): #ALERT!!! This represents we will scrawl page 12-16. Manually adjust it after changing the cookie
 	print("crawling no."+str(i)+' page')
 	get_page(i)
-	time.sleep(5)
 
 data = {
 	'id': id_list,
