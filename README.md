@@ -41,7 +41,7 @@ All the datas are differentiated into three types，and the datas marked in `Blu
   * If you are considering about purchasing your own house in Manhanttan, it would be a better strategy to start your research among those houses in the `Brown 2` type. If you do not care about the money, the `Red 0` type has a higher possibility containing your future potential home. And if you are working to your best to earn money, type `Green 1` would be a better fit for you.
 
 
-#### Packages need to install
+#### Packages need to install (Also listed in the `requirements.txt`)
 * For the crawl code, you need to install following packages:<br>
   * `pandas`
   * `requests`
