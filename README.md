@@ -53,4 +53,4 @@ All the datas are differentiated into three types，and the datas marked in `Blu
   * `matplotlib.pyplot`
 
 #### Run instructions
-* You have to refresh the website https://streeteasy.com/for-sale/manhattan and add the new cookie into the code when you excute the code each time. 
+* You have to refresh the website https://streeteasy.com/for-sale/manhattan and add the new cookie into the code when you execute the code each time. 
