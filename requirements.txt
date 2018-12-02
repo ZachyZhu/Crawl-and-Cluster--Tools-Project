@@ -1,0 +1,1 @@
+Packages need to install¥ For the crawl code, you need to install following packages:  pandas  requests  time  lxml  bs4¥ For the Data Analysis code, you need to install the following packages:  sklearn.cluster  matplotlib.pyplot 
